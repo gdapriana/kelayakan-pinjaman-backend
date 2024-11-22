@@ -1,0 +1,325 @@
+pendapatan (jt/bln),usia (tahun),tanggungan (orang),pengeluaran (jt/bln),aset (juta),kelayakan
+Rendah,Muda,Sedikit,Rendah,Sedikit,Layak
+Rendah,Muda,Sedikit,Rendah,Sedang,Layak
+Rendah,Muda,Sedikit,Rendah,Banyak,Layak
+Rendah,Muda,Sedikit,Sedang,Sedikit,Tidak Layak
+Rendah,Muda,Sedikit,Sedang,Sedang,Layak
+Rendah,Muda,Sedikit,Sedang,Banyak,Layak
+Rendah,Muda,Sedikit,Tinggi,Sedikit,Tidak Layak
+Rendah,Muda,Sedikit,Tinggi,Sedang,Tidak Layak
+Rendah,Muda,Sedikit,Tinggi,Banyak,Layak
+Rendah,Muda,Sedang,Rendah,Sedikit,Tidak Layak
+Rendah,Muda,Sedang,Rendah,Sedang,Layak
+Rendah,Muda,Sedang,Rendah,Banyak,Layak
+Rendah,Muda,Sedang,Sedang,Sedikit,Tidak Layak
+Rendah,Muda,Sedang,Sedang,Sedang,Tidak Layak
+Rendah,Muda,Sedang,Sedang,Banyak,Layak
+Rendah,Muda,Sedang,Tinggi,Sedikit,Tidak Layak
+Rendah,Muda,Sedang,Tinggi,Sedang,Tidak Layak
+Rendah,Muda,Sedang,Tinggi,Banyak,Tidak Layak
+Rendah,Muda,Banyak,Rendah,Sedikit,Tidak Layak
+Rendah,Muda,Banyak,Rendah,Sedang,Tidak Layak
+Rendah,Muda,Banyak,Rendah,Banyak,Layak
+Rendah,Muda,Banyak,Sedang,Sedikit,Tidak Layak
+Rendah,Muda,Banyak,Sedang,Sedang,Tidak Layak
+Rendah,Muda,Banyak,Sedang,Banyak,Tidak Layak
+Rendah,Muda,Banyak,Tinggi,Sedikit,Tidak Layak
+Rendah,Muda,Banyak,Tinggi,Sedang,Tidak Layak
+Rendah,Muda,Banyak,Tinggi,Banyak,Tidak Layak
+Rendah,Parobaya,Sedikit,Rendah,Sedikit,Layak
+Rendah,Parobaya,Sedikit,Rendah,Sedang,Layak
+Rendah,Parobaya,Sedikit,Rendah,Banyak,Layak
+Rendah,Parobaya,Sedikit,Sedang,Sedikit,Layak
+Rendah,Parobaya,Sedikit,Sedang,Sedang,Layak
+Rendah,Parobaya,Sedikit,Sedang,Banyak,Layak
+Rendah,Parobaya,Sedikit,Tinggi,Sedikit,Tidak Layak
+Rendah,Parobaya,Sedikit,Tinggi,Sedang,Layak
+Rendah,Parobaya,Sedikit,Tinggi,Banyak,Layak
+Rendah,Parobaya,Sedang,Rendah,Sedikit,Layak
+Rendah,Parobaya,Sedang,Rendah,Sedang,Layak
+Rendah,Parobaya,Sedang,Rendah,Banyak,Layak
+Rendah,Parobaya,Sedang,Sedang,Sedikit,Tidak Layak
+Rendah,Parobaya,Sedang,Sedang,Sedang,Layak
+Rendah,Parobaya,Sedang,Sedang,Banyak,Layak
+Rendah,Parobaya,Sedang,Tinggi,Sedikit,Tidak Layak
+Rendah,Parobaya,Sedang,Tinggi,Sedang,Tidak Layak
+Rendah,Parobaya,Sedang,Tinggi,Banyak,Layak
+Rendah,Parobaya,Banyak,Rendah,Sedikit,Tidak Layak
+Rendah,Parobaya,Banyak,Rendah,Sedang,Layak
+Rendah,Parobaya,Banyak,Rendah,Banyak,Layak
+Rendah,Parobaya,Banyak,Sedang,Sedikit,Tidak Layak
+Rendah,Parobaya,Banyak,Sedang,Sedang,Tidak Layak
+Rendah,Parobaya,Banyak,Sedang,Banyak,Layak
+Rendah,Parobaya,Banyak,Tinggi,Sedikit,Tidak Layak
+Rendah,Parobaya,Banyak,Tinggi,Sedang,Tidak Layak
+Rendah,Parobaya,Banyak,Tinggi,Banyak,Tidak Layak
+Rendah,Tua,Sedikit,Rendah,Sedikit,Layak
+Rendah,Tua,Sedikit,Rendah,Sedang,Layak
+Rendah,Tua,Sedikit,Rendah,Banyak,Layak
+Rendah,Tua,Sedikit,Sedang,Sedikit,Layak
+Rendah,Tua,Sedikit,Sedang,Sedang,Layak
+Rendah,Tua,Sedikit,Sedang,Banyak,Layak
+Rendah,Tua,Sedikit,Tinggi,Sedikit,Tidak Layak
+Rendah,Tua,Sedikit,Tinggi,Sedang,Layak
+Rendah,Tua,Sedikit,Tinggi,Banyak,Layak
+Rendah,Tua,Sedang,Rendah,Sedikit,Layak
+Rendah,Tua,Sedang,Rendah,Sedang,Layak
+Rendah,Tua,Sedang,Rendah,Banyak,Layak
+Rendah,Tua,Sedang,Sedang,Sedikit,Tidak Layak
+Rendah,Tua,Sedang,Sedang,Sedang,Layak
+Rendah,Tua,Sedang,Sedang,Banyak,Layak
+Rendah,Tua,Sedang,Tinggi,Sedikit,Tidak Layak
+Rendah,Tua,Sedang,Tinggi,Sedang,Tidak Layak
+Rendah,Tua,Sedang,Tinggi,Banyak,Layak
+Rendah,Tua,Banyak,Rendah,Sedikit,Tidak Layak
+Rendah,Tua,Banyak,Rendah,Sedang,Layak
+Rendah,Tua,Banyak,Rendah,Banyak,Layak
+Rendah,Tua,Banyak,Sedang,Sedikit,Tidak Layak
+Rendah,Tua,Banyak,Sedang,Sedang,Tidak Layak
+Rendah,Tua,Banyak,Sedang,Banyak,Layak
+Rendah,Tua,Banyak,Tinggi,Sedikit,Tidak Layak
+Rendah,Tua,Banyak,Tinggi,Sedang,Tidak Layak
+Rendah,Tua,Banyak,Tinggi,Banyak,Tidak Layak
+Rendah,Sangat Tua,Sedikit,Rendah,Sedikit,Tidak Layak
+Rendah,Sangat Tua,Sedikit,Rendah,Sedang,Layak
+Rendah,Sangat Tua,Sedikit,Rendah,Banyak,Layak
+Rendah,Sangat Tua,Sedikit,Sedang,Sedikit,Tidak Layak
+Rendah,Sangat Tua,Sedikit,Sedang,Sedang,Tidak Layak
+Rendah,Sangat Tua,Sedikit,Sedang,Banyak,Layak
+Rendah,Sangat Tua,Sedikit,Tinggi,Sedikit,Tidak Layak
+Rendah,Sangat Tua,Sedikit,Tinggi,Sedang,Tidak Layak
+Rendah,Sangat Tua,Sedikit,Tinggi,Banyak,Tidak Layak
+Rendah,Sangat Tua,Sedang,Rendah,Sedikit,Tidak Layak
+Rendah,Sangat Tua,Sedang,Rendah,Sedang,Tidak Layak
+Rendah,Sangat Tua,Sedang,Rendah,Banyak,Layak
+Rendah,Sangat Tua,Sedang,Sedang,Sedikit,Tidak Layak
+Rendah,Sangat Tua,Sedang,Sedang,Sedang,Tidak Layak
+Rendah,Sangat Tua,Sedang,Sedang,Banyak,Tidak Layak
+Rendah,Sangat Tua,Sedang,Tinggi,Sedikit,Tidak Layak
+Rendah,Sangat Tua,Sedang,Tinggi,Sedang,Tidak Layak
+Rendah,Sangat Tua,Sedang,Tinggi,Banyak,Tidak Layak
+Rendah,Sangat Tua,Banyak,Rendah,Sedikit,Tidak Layak
+Rendah,Sangat Tua,Banyak,Rendah,Sedang,Tidak Layak
+Rendah,Sangat Tua,Banyak,Rendah,Banyak,Tidak Layak
+Rendah,Sangat Tua,Banyak,Sedang,Sedikit,Tidak Layak
+Rendah,Sangat Tua,Banyak,Sedang,Sedang,Tidak Layak
+Rendah,Sangat Tua,Banyak,Sedang,Banyak,Tidak Layak
+Rendah,Sangat Tua,Banyak,Tinggi,Sedikit,Tidak Layak
+Rendah,Sangat Tua,Banyak,Tinggi,Sedang,Tidak Layak
+Rendah,Sangat Tua,Banyak,Tinggi,Banyak,Tidak Layak
+Sedang,Muda,Sedikit,Rendah,Sedikit,Layak
+Sedang,Muda,Sedikit,Rendah,Sedang,Layak
+Sedang,Muda,Sedikit,Rendah,Banyak,Layak
+Sedang,Muda,Sedikit,Sedang,Sedikit,Layak
+Sedang,Muda,Sedikit,Sedang,Sedang,Layak
+Sedang,Muda,Sedikit,Sedang,Banyak,Layak
+Sedang,Muda,Sedikit,Tinggi,Sedikit,Tidak Layak
+Sedang,Muda,Sedikit,Tinggi,Sedang,Layak
+Sedang,Muda,Sedikit,Tinggi,Banyak,Layak
+Sedang,Muda,Sedang,Rendah,Sedikit,Layak
+Sedang,Muda,Sedang,Rendah,Sedang,Layak
+Sedang,Muda,Sedang,Rendah,Banyak,Layak
+Sedang,Muda,Sedang,Sedang,Sedikit,Tidak Layak
+Sedang,Muda,Sedang,Sedang,Sedang,Layak
+Sedang,Muda,Sedang,Sedang,Banyak,Layak
+Sedang,Muda,Sedang,Tinggi,Sedikit,Tidak Layak
+Sedang,Muda,Sedang,Tinggi,Sedang,Tidak Layak
+Sedang,Muda,Sedang,Tinggi,Banyak,Layak
+Sedang,Muda,Banyak,Rendah,Sedikit,Tidak Layak
+Sedang,Muda,Banyak,Rendah,Sedang,Layak
+Sedang,Muda,Banyak,Rendah,Banyak,Layak
+Sedang,Muda,Banyak,Sedang,Sedikit,Tidak Layak
+Sedang,Muda,Banyak,Sedang,Sedang,Tidak Layak
+Sedang,Muda,Banyak,Sedang,Banyak,Layak
+Sedang,Muda,Banyak,Tinggi,Sedikit,Tidak Layak
+Sedang,Muda,Banyak,Tinggi,Sedang,Tidak Layak
+Sedang,Muda,Banyak,Tinggi,Banyak,Tidak Layak
+Sedang,Parobaya,Sedikit,Rendah,Sedikit,Layak
+Sedang,Parobaya,Sedikit,Rendah,Sedang,Layak
+Sedang,Parobaya,Sedikit,Rendah,Banyak,Layak
+Sedang,Parobaya,Sedikit,Sedang,Sedikit,Layak
+Sedang,Parobaya,Sedikit,Sedang,Sedang,Layak
+Sedang,Parobaya,Sedikit,Sedang,Banyak,Layak
+Sedang,Parobaya,Sedikit,Tinggi,Sedikit,Layak
+Sedang,Parobaya,Sedikit,Tinggi,Sedang,Layak
+Sedang,Parobaya,Sedikit,Tinggi,Banyak,Layak
+Sedang,Parobaya,Sedang,Rendah,Sedikit,Layak
+Sedang,Parobaya,Sedang,Rendah,Sedang,Layak
+Sedang,Parobaya,Sedang,Rendah,Banyak,Layak
+Sedang,Parobaya,Sedang,Sedang,Sedikit,Layak
+Sedang,Parobaya,Sedang,Sedang,Sedang,Layak
+Sedang,Parobaya,Sedang,Sedang,Banyak,Layak
+Sedang,Parobaya,Sedang,Tinggi,Sedikit,Tidak Layak
+Sedang,Parobaya,Sedang,Tinggi,Sedang,Layak
+Sedang,Parobaya,Sedang,Tinggi,Banyak,Layak
+Sedang,Parobaya,Banyak,Rendah,Sedikit,Layak
+Sedang,Parobaya,Banyak,Rendah,Sedang,Layak
+Sedang,Parobaya,Banyak,Rendah,Banyak,Layak
+Sedang,Parobaya,Banyak,Sedang,Sedikit,Tidak Layak
+Sedang,Parobaya,Banyak,Sedang,Sedang,Layak
+Sedang,Parobaya,Banyak,Sedang,Banyak,Layak
+Sedang,Parobaya,Banyak,Tinggi,Sedikit,Tidak Layak
+Sedang,Parobaya,Banyak,Tinggi,Sedang,Tidak Layak
+Sedang,Parobaya,Banyak,Tinggi,Banyak,Layak
+Sedang,Tua,Sedikit,Rendah,Sedikit,Layak
+Sedang,Tua,Sedikit,Rendah,Sedang,Layak
+Sedang,Tua,Sedikit,Rendah,Banyak,Layak
+Sedang,Tua,Sedikit,Sedang,Sedikit,Layak
+Sedang,Tua,Sedikit,Sedang,Sedang,Layak
+Sedang,Tua,Sedikit,Sedang,Banyak,Layak
+Sedang,Tua,Sedikit,Tinggi,Sedikit,Layak
+Sedang,Tua,Sedikit,Tinggi,Sedang,Layak
+Sedang,Tua,Sedikit,Tinggi,Banyak,Layak
+Sedang,Tua,Sedang,Rendah,Sedikit,Layak
+Sedang,Tua,Sedang,Rendah,Sedang,Layak
+Sedang,Tua,Sedang,Rendah,Banyak,Layak
+Sedang,Tua,Sedang,Sedang,Sedikit,Layak
+Sedang,Tua,Sedang,Sedang,Sedang,Layak
+Sedang,Tua,Sedang,Sedang,Banyak,Layak
+Sedang,Tua,Sedang,Tinggi,Sedikit,Tidak Layak
+Sedang,Tua,Sedang,Tinggi,Sedang,Layak
+Sedang,Tua,Sedang,Tinggi,Banyak,Layak
+Sedang,Tua,Banyak,Rendah,Sedikit,Layak
+Sedang,Tua,Banyak,Rendah,Sedang,Layak
+Sedang,Tua,Banyak,Rendah,Banyak,Layak
+Sedang,Tua,Banyak,Sedang,Sedikit,Tidak Layak
+Sedang,Tua,Banyak,Sedang,Sedang,Layak
+Sedang,Tua,Banyak,Sedang,Banyak,Layak
+Sedang,Tua,Banyak,Tinggi,Sedikit,Tidak Layak
+Sedang,Tua,Banyak,Tinggi,Sedang,Tidak Layak
+Sedang,Tua,Banyak,Tinggi,Banyak,Layak
+Sedang,Sangat Tua,Sedikit,Rendah,Sedikit,Layak
+Sedang,Sangat Tua,Sedikit,Rendah,Sedang,Layak
+Sedang,Sangat Tua,Sedikit,Rendah,Banyak,Layak
+Sedang,Sangat Tua,Sedikit,Sedang,Sedikit,Tidak Layak
+Sedang,Sangat Tua,Sedikit,Sedang,Sedang,Layak
+Sedang,Sangat Tua,Sedikit,Sedang,Banyak,Layak
+Sedang,Sangat Tua,Sedikit,Tinggi,Sedikit,Tidak Layak
+Sedang,Sangat Tua,Sedikit,Tinggi,Sedang,Tidak Layak
+Sedang,Sangat Tua,Sedikit,Tinggi,Banyak,Layak
+Sedang,Sangat Tua,Sedang,Rendah,Sedikit,Tidak Layak
+Sedang,Sangat Tua,Sedang,Rendah,Sedang,Layak
+Sedang,Sangat Tua,Sedang,Rendah,Banyak,Layak
+Sedang,Sangat Tua,Sedang,Sedang,Sedikit,Tidak Layak
+Sedang,Sangat Tua,Sedang,Sedang,Sedang,Tidak Layak
+Sedang,Sangat Tua,Sedang,Sedang,Banyak,Layak
+Sedang,Sangat Tua,Sedang,Tinggi,Sedikit,Tidak Layak
+Sedang,Sangat Tua,Sedang,Tinggi,Sedang,Tidak Layak
+Sedang,Sangat Tua,Sedang,Tinggi,Banyak,Tidak Layak
+Sedang,Sangat Tua,Banyak,Rendah,Sedikit,Tidak Layak
+Sedang,Sangat Tua,Banyak,Rendah,Sedang,Tidak Layak
+Sedang,Sangat Tua,Banyak,Rendah,Banyak,Layak
+Sedang,Sangat Tua,Banyak,Sedang,Sedikit,Tidak Layak
+Sedang,Sangat Tua,Banyak,Sedang,Sedang,Tidak Layak
+Sedang,Sangat Tua,Banyak,Sedang,Banyak,Tidak Layak
+Sedang,Sangat Tua,Banyak,Tinggi,Sedikit,Tidak Layak
+Sedang,Sangat Tua,Banyak,Tinggi,Sedang,Tidak Layak
+Sedang,Sangat Tua,Banyak,Tinggi,Banyak,Tidak Layak
+Tinggi,Muda,Sedikit,Rendah,Sedikit,Layak
+Tinggi,Muda,Sedikit,Rendah,Sedang,Layak
+Tinggi,Muda,Sedikit,Rendah,Banyak,Layak
+Tinggi,Muda,Sedikit,Sedang,Sedikit,Layak
+Tinggi,Muda,Sedikit,Sedang,Sedang,Layak
+Tinggi,Muda,Sedikit,Sedang,Banyak,Layak
+Tinggi,Muda,Sedikit,Tinggi,Sedikit,Layak
+Tinggi,Muda,Sedikit,Tinggi,Sedang,Layak
+Tinggi,Muda,Sedikit,Tinggi,Banyak,Layak
+Tinggi,Muda,Sedang,Rendah,Sedikit,Layak
+Tinggi,Muda,Sedang,Rendah,Sedang,Layak
+Tinggi,Muda,Sedang,Rendah,Banyak,Layak
+Tinggi,Muda,Sedang,Sedang,Sedikit,Layak
+Tinggi,Muda,Sedang,Sedang,Sedang,Layak
+Tinggi,Muda,Sedang,Sedang,Banyak,Layak
+Tinggi,Muda,Sedang,Tinggi,Sedikit,Tidak Layak
+Tinggi,Muda,Sedang,Tinggi,Sedang,Layak
+Tinggi,Muda,Sedang,Tinggi,Banyak,Layak
+Tinggi,Muda,Banyak,Rendah,Sedikit,Layak
+Tinggi,Muda,Banyak,Rendah,Sedang,Layak
+Tinggi,Muda,Banyak,Rendah,Banyak,Layak
+Tinggi,Muda,Banyak,Sedang,Sedikit,Tidak Layak
+Tinggi,Muda,Banyak,Sedang,Sedang,Layak
+Tinggi,Muda,Banyak,Sedang,Banyak,Layak
+Tinggi,Muda,Banyak,Tinggi,Sedikit,Tidak Layak
+Tinggi,Muda,Banyak,Tinggi,Sedang,Tidak Layak
+Tinggi,Muda,Banyak,Tinggi,Banyak,Layak
+Tinggi,Parobaya,Sedikit,Rendah,Sedikit,Layak
+Tinggi,Parobaya,Sedikit,Rendah,Sedang,Layak
+Tinggi,Parobaya,Sedikit,Rendah,Banyak,Layak
+Tinggi,Parobaya,Sedikit,Sedang,Sedikit,Layak
+Tinggi,Parobaya,Sedikit,Sedang,Sedang,Layak
+Tinggi,Parobaya,Sedikit,Sedang,Banyak,Layak
+Tinggi,Parobaya,Sedikit,Tinggi,Sedikit,Layak
+Tinggi,Parobaya,Sedikit,Tinggi,Sedang,Layak
+Tinggi,Parobaya,Sedikit,Tinggi,Banyak,Layak
+Tinggi,Parobaya,Sedang,Rendah,Sedikit,Layak
+Tinggi,Parobaya,Sedang,Rendah,Sedang,Layak
+Tinggi,Parobaya,Sedang,Rendah,Banyak,Layak
+Tinggi,Parobaya,Sedang,Sedang,Sedikit,Layak
+Tinggi,Parobaya,Sedang,Sedang,Sedang,Layak
+Tinggi,Parobaya,Sedang,Sedang,Banyak,Layak
+Tinggi,Parobaya,Sedang,Tinggi,Sedikit,Layak
+Tinggi,Parobaya,Sedang,Tinggi,Sedang,Layak
+Tinggi,Parobaya,Sedang,Tinggi,Banyak,Layak
+Tinggi,Parobaya,Banyak,Rendah,Sedikit,Layak
+Tinggi,Parobaya,Banyak,Rendah,Sedang,Layak
+Tinggi,Parobaya,Banyak,Rendah,Banyak,Layak
+Tinggi,Parobaya,Banyak,Sedang,Sedikit,Layak
+Tinggi,Parobaya,Banyak,Sedang,Sedang,Layak
+Tinggi,Parobaya,Banyak,Sedang,Banyak,Layak
+Tinggi,Parobaya,Banyak,Tinggi,Sedikit,Tidak Layak
+Tinggi,Parobaya,Banyak,Tinggi,Sedang,Layak
+Tinggi,Parobaya,Banyak,Tinggi,Banyak,Layak
+Tinggi,Tua,Sedikit,Rendah,Sedikit,Layak
+Tinggi,Tua,Sedikit,Rendah,Sedang,Layak
+Tinggi,Tua,Sedikit,Rendah,Banyak,Layak
+Tinggi,Tua,Sedikit,Sedang,Sedikit,Layak
+Tinggi,Tua,Sedikit,Sedang,Sedang,Layak
+Tinggi,Tua,Sedikit,Sedang,Banyak,Layak
+Tinggi,Tua,Sedikit,Tinggi,Sedikit,Layak
+Tinggi,Tua,Sedikit,Tinggi,Sedang,Layak
+Tinggi,Tua,Sedikit,Tinggi,Banyak,Layak
+Tinggi,Tua,Sedang,Rendah,Sedikit,Layak
+Tinggi,Tua,Sedang,Rendah,Sedang,Layak
+Tinggi,Tua,Sedang,Rendah,Banyak,Layak
+Tinggi,Tua,Sedang,Sedang,Sedikit,Layak
+Tinggi,Tua,Sedang,Sedang,Sedang,Layak
+Tinggi,Tua,Sedang,Sedang,Banyak,Layak
+Tinggi,Tua,Sedang,Tinggi,Sedikit,Layak
+Tinggi,Tua,Sedang,Tinggi,Sedang,Layak
+Tinggi,Tua,Sedang,Tinggi,Banyak,Layak
+Tinggi,Tua,Banyak,Rendah,Sedikit,Layak
+Tinggi,Tua,Banyak,Rendah,Sedang,Layak
+Tinggi,Tua,Banyak,Rendah,Banyak,Layak
+Tinggi,Tua,Banyak,Sedang,Sedikit,Layak
+Tinggi,Tua,Banyak,Sedang,Sedang,Layak
+Tinggi,Tua,Banyak,Sedang,Banyak,Layak
+Tinggi,Tua,Banyak,Tinggi,Sedikit,Tidak Layak
+Tinggi,Tua,Banyak,Tinggi,Sedang,Layak
+Tinggi,Tua,Banyak,Tinggi,Banyak,Layak
+Tinggi,Sangat Tua,Sedikit,Rendah,Sedikit,Layak
+Tinggi,Sangat Tua,Sedikit,Rendah,Sedang,Layak
+Tinggi,Sangat Tua,Sedikit,Rendah,Banyak,Layak
+Tinggi,Sangat Tua,Sedikit,Sedang,Sedikit,Layak
+Tinggi,Sangat Tua,Sedikit,Sedang,Sedang,Layak
+Tinggi,Sangat Tua,Sedikit,Sedang,Banyak,Layak
+Tinggi,Sangat Tua,Sedikit,Tinggi,Sedikit,Tidak Layak
+Tinggi,Sangat Tua,Sedikit,Tinggi,Sedang,Layak
+Tinggi,Sangat Tua,Sedikit,Tinggi,Banyak,Layak
+Tinggi,Sangat Tua,Sedang,Rendah,Sedikit,Layak
+Tinggi,Sangat Tua,Sedang,Rendah,Sedang,Layak
+Tinggi,Sangat Tua,Sedang,Rendah,Banyak,Layak
+Tinggi,Sangat Tua,Sedang,Sedang,Sedikit,Tidak Layak
+Tinggi,Sangat Tua,Sedang,Sedang,Sedang,Layak
+Tinggi,Sangat Tua,Sedang,Sedang,Banyak,Layak
+Tinggi,Sangat Tua,Sedang,Tinggi,Sedikit,Tidak Layak
+Tinggi,Sangat Tua,Sedang,Tinggi,Sedang,Tidak Layak
+Tinggi,Sangat Tua,Sedang,Tinggi,Banyak,Layak
+Tinggi,Sangat Tua,Banyak,Rendah,Sedikit,Tidak Layak
+Tinggi,Sangat Tua,Banyak,Rendah,Sedang,Layak
+Tinggi,Sangat Tua,Banyak,Rendah,Banyak,Layak
+Tinggi,Sangat Tua,Banyak,Sedang,Sedikit,Tidak Layak
+Tinggi,Sangat Tua,Banyak,Sedang,Sedang,Tidak Layak
+Tinggi,Sangat Tua,Banyak,Sedang,Banyak,Layak
+Tinggi,Sangat Tua,Banyak,Tinggi,Sedikit,Tidak Layak
+Tinggi,Sangat Tua,Banyak,Tinggi,Sedang,Tidak Layak
+Tinggi,Sangat Tua,Banyak,Tinggi,Banyak,Tidak Layak
