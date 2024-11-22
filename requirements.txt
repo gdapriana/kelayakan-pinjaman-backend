@@ -1,89 +1,41 @@
-# This file may be used to create an environment using:
-# $ conda create --name <env> --file <this file>
-# platform: osx-arm64
-# created-by: conda 24.9.1
-blas=1.0=openblas
-blinker=1.6.2=py38hca03da5_0
-bottleneck=1.3.7=py38hbda83bc_0
-brotli=1.0.9=h80987f9_8
-brotli-bin=1.0.9=h80987f9_8
-brotli-python=1.0.9=py38h313beb8_8
-bzip2=1.0.8=h80987f9_6
-ca-certificates=2024.9.24=hca03da5_0
-certifi=2024.8.30=py38hca03da5_0
-charset-normalizer=3.3.2=pyhd3eb1b0_0
-click=8.1.7=py38hca03da5_0
-contourpy=1.0.5=py38h525c30c_0
-cycler=0.11.0=pyhd3eb1b0_0
-flask=3.0.3=py38hca03da5_0
-flask-cors=3.0.10=pyhd3eb1b0_0
-fonttools=4.51.0=py38h80987f9_0
-freetype=2.12.1=hadb7bae_2
-gunicorn=23.0.0=py38h10201cd_0
-idna=3.7=py38hca03da5_0
-importlib-metadata=7.0.1=py38hca03da5_0
-importlib_resources=6.4.0=py38hca03da5_0
-itsdangerous=2.2.0=py38hca03da5_0
-jinja2=3.1.4=py38hca03da5_0
-jpeg=9e=h80987f9_3
-kiwisolver=1.4.4=py38h313beb8_0
-lcms2=2.12=hba8e193_0
-lerc=3.0=hc377ac9_0
-libbrotlicommon=1.0.9=h80987f9_8
-libbrotlidec=1.0.9=h80987f9_8
-libbrotlienc=1.0.9=h80987f9_8
-libcxx=14.0.6=h848a8c0_0
-libdeflate=1.12=he4db4b2_0
-libffi=3.4.4=hca03da5_1
-libgfortran=5.0.0=11_3_0_hca03da5_28
-libgfortran5=11.3.0=h009349e_28
-libopenblas=0.3.21=h269037a_0
-libpng=1.6.44=hc14010f_0
-libsqlite=3.45.2=h091b4b1_0
-libtiff=4.4.0=hcbbed22_1
-libwebp-base=1.3.2=h80987f9_1
-libxcb=1.13=h9b22ae9_1004
-libzlib=1.3.1=h8359307_2
-llvm-openmp=14.0.6=hc6e5704_0
-lz4-c=1.9.4=h313beb8_1
-markupsafe=2.1.3=py38h80987f9_0
-matplotlib-base=3.7.2=py38h46d7db6_0
-ncurses=6.4=h313beb8_0
-networkx=3.1=py38hca03da5_0
-numexpr=2.8.4=py38h79ee842_1
-numpy=1.24.3=py38h1398885_0
-numpy-base=1.24.3=py38h90707a3_0
-openjpeg=2.4.0=h0ed58ac_2
-openssl=3.0.15=h80987f9_0
-packaging=24.1=py38hca03da5_0
-pandas=2.0.3=py38h46d7db6_0
-pillow=9.2.0=py38h307be9c_1
-pip=24.2=py38hca03da5_0
-platformdirs=3.10.0=py38hca03da5_0
-pooch=1.7.0=py38hca03da5_0
-pthread-stubs=0.3=h1a28f6b_1
-pyparsing=3.0.9=py38hca03da5_0
-pysocks=1.7.1=py38hca03da5_0
-python=3.8.16=h3ba56d0_1_cpython
-python-dateutil=2.9.0post0=py38hca03da5_2
-python-tzdata=2023.3=pyhd3eb1b0_0
-python_abi=3.8=5_cp38
-pytz=2024.1=py38hca03da5_0
-readline=8.2=h1a28f6b_0
-requests=2.32.3=py38hca03da5_0
-scikit-fuzzy=0.5.0=pyhd8ed1ab_0
-scipy=1.10.1=py38h9d039d2_1
-setuptools=75.1.0=py38hca03da5_0
-six=1.16.0=pyhd3eb1b0_1
-sqlite=3.45.2=hf2abe2d_0
-tk=8.6.13=h5083fa2_1
-unicodedata2=15.1.0=py38h80987f9_0
-urllib3=2.2.3=py38hca03da5_0
-werkzeug=3.0.3=py38hca03da5_0
-wheel=0.44.0=py38hca03da5_0
-xorg-libxau=1.0.11=hd74edd7_1
-xorg-libxdmcp=1.1.5=hd74edd7_0
-xz=5.4.6=h80987f9_1
-zipp=3.20.2=py38hca03da5_0
-zlib=1.3.1=h8359307_2
-zstd=1.5.6=hb46c0d2_0
+blinker @ file:///private/var/folders/k1/30mswbxs7r1g6zwn8y4fyt500000gp/T/abs_d64vvpf_j3/croot/blinker_1696539070114/work
+Bottleneck @ file:///private/var/folders/nz/j6p8yfhx1mv_0grj5xl4650h0000gp/T/abs_2bxpizxa3c/croot/bottleneck_1707864819812/work
+Brotli @ file:///private/var/folders/k1/30mswbxs7r1g6zwn8y4fyt500000gp/T/abs_27zk0eqdh0/croot/brotli-split_1714483157007/work
+certifi @ file:///private/var/folders/k1/30mswbxs7r1g6zwn8y4fyt500000gp/T/abs_0ecs_ou28u/croot/certifi_1725551740278/work/certifi
+charset-normalizer @ file:///croot/charset-normalizer_1721748349566/work
+click @ file:///private/var/folders/nz/j6p8yfhx1mv_0grj5xl4650h0000gp/T/abs_61srkg7e2e/croot/click_1698129815327/work
+contourpy @ file:///private/var/folders/nz/j6p8yfhx1mv_0grj5xl4650h0000gp/T/abs_97c8ctlp86/croots/recipe/contourpy_1663827422071/work
+cycler @ file:///tmp/build/80754af9/cycler_1637851556182/work
+Flask @ file:///private/var/folders/nz/j6p8yfhx1mv_0grj5xl4650h0000gp/T/abs_b6zka5i2cn/croot/flask_1716545886197/work
+Flask-Cors @ file:///tmp/build/80754af9/flask-cors_1609957731919/work
+fonttools @ file:///private/var/folders/nz/j6p8yfhx1mv_0grj5xl4650h0000gp/T/abs_60c8ux4mkl/croot/fonttools_1713551354374/work
+gunicorn @ file:///Users/runner/miniforge3/conda-bld/gunicorn_1723457834999/work
+idna @ file:///private/var/folders/k1/30mswbxs7r1g6zwn8y4fyt500000gp/T/abs_a12xpo84t2/croot/idna_1714398852854/work
+importlib-metadata @ file:///private/var/folders/k1/30mswbxs7r1g6zwn8y4fyt500000gp/T/abs_5498c88e7n/croot/importlib_metadata-suite_1704813534254/work
+importlib_resources @ file:///private/var/folders/nz/j6p8yfhx1mv_0grj5xl4650h0000gp/T/abs_784gdd8gq5/croot/importlib_resources-suite_1720641109833/work
+itsdangerous @ file:///private/var/folders/nz/j6p8yfhx1mv_0grj5xl4650h0000gp/T/abs_00jdi1gu23/croot/itsdangerous_1716533346702/work
+Jinja2 @ file:///private/var/folders/k1/30mswbxs7r1g6zwn8y4fyt500000gp/T/abs_44yzu12j7f/croot/jinja2_1716993410427/work
+kiwisolver @ file:///private/var/folders/nz/j6p8yfhx1mv_0grj5xl4650h0000gp/T/abs_93o8te804v/croot/kiwisolver_1672387163224/work
+MarkupSafe @ file:///private/var/folders/nz/j6p8yfhx1mv_0grj5xl4650h0000gp/T/abs_a84ni4pci8/croot/markupsafe_1704206002077/work
+matplotlib @ file:///private/var/folders/nz/j6p8yfhx1mv_0grj5xl4650h0000gp/T/abs_a23xd3m8b1/croot/matplotlib-suite_1693812470272/work
+networkx @ file:///private/var/folders/nz/j6p8yfhx1mv_0grj5xl4650h0000gp/T/abs_b9af3smw_7/croot/networkx_1690562010704/work
+numexpr @ file:///private/var/folders/nz/j6p8yfhx1mv_0grj5xl4650h0000gp/T/abs_76yyu1p9jk/croot/numexpr_1683221830860/work
+numpy @ file:///private/var/folders/nz/j6p8yfhx1mv_0grj5xl4650h0000gp/T/abs_f9f5xs2fx0/croot/numpy_and_numpy_base_1682520577456/work
+packaging @ file:///private/var/folders/k1/30mswbxs7r1g6zwn8y4fyt500000gp/T/abs_81ri4yfpjw/croot/packaging_1720101866878/work
+pandas @ file:///private/var/folders/nz/j6p8yfhx1mv_0grj5xl4650h0000gp/T/abs_b9nb2vqtpu/croot/pandas_1692289331806/work
+Pillow @ file:///Users/runner/miniforge3/conda-bld/pillow_1660332342211/work
+platformdirs @ file:///private/var/folders/k1/30mswbxs7r1g6zwn8y4fyt500000gp/T/abs_a8u4fy8k9o/croot/platformdirs_1692205661656/work
+pooch @ file:///private/var/folders/k1/30mswbxs7r1g6zwn8y4fyt500000gp/T/abs_1bocfs80f4/croot/pooch_1695850117888/work
+pyparsing @ file:///private/var/folders/nz/j6p8yfhx1mv_0grj5xl4650h0000gp/T/abs_3b_3vxnd07/croots/recipe/pyparsing_1661452540919/work
+PySocks @ file:///Users/ktietz/Code/oss/ci_pkgs/pysocks_1626781349491/work
+python-dateutil @ file:///private/var/folders/k1/30mswbxs7r1g6zwn8y4fyt500000gp/T/abs_66ud1l42_h/croot/python-dateutil_1716495741162/work
+pytz @ file:///private/var/folders/k1/30mswbxs7r1g6zwn8y4fyt500000gp/T/abs_a4b76c83ik/croot/pytz_1713974318928/work
+requests @ file:///private/var/folders/nz/j6p8yfhx1mv_0grj5xl4650h0000gp/T/abs_70sm12ba9w/croot/requests_1721414707360/work
+scikit-fuzzy @ file:///home/conda/feedstock_root/build_artifacts/scikit-fuzzy_1724617026425/work
+scipy==1.10.1
+six @ file:///tmp/build/80754af9/six_1644875935023/work
+tzdata @ file:///croot/python-tzdata_1690578112552/work
+unicodedata2 @ file:///private/var/folders/k1/30mswbxs7r1g6zwn8y4fyt500000gp/T/abs_a3epjto7gs/croot/unicodedata2_1713212955584/work
+urllib3 @ file:///private/var/folders/nz/j6p8yfhx1mv_0grj5xl4650h0000gp/T/abs_06_m8gdsy6/croot/urllib3_1727769822458/work
+Werkzeug @ file:///private/var/folders/nz/j6p8yfhx1mv_0grj5xl4650h0000gp/T/abs_5bnbxlhunm/croot/werkzeug_1716533322814/work
+zipp @ file:///private/var/folders/k1/30mswbxs7r1g6zwn8y4fyt500000gp/T/abs_99az8pifo0/croot/zipp_1729012379243/work
