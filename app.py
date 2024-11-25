@@ -4,6 +4,7 @@ import pandas as pd
 import json
 from resources.preprocessing import preprocessing, get_input
 from resources.fuzzy import fuzzification, inference, defuzzification
+from resources.member import get_member
 
 app = Flask(__name__)
 cors = CORS(app)
@@ -17,10 +18,30 @@ def home():
 @app.route('/dataset')
 @cross_origin()
 def dataset():
+
+  row = request.args.get('row')
+
+  try:
+    if row is None:
+      row = 10
+    row = int(row)
+  except ValueError:
+    return jsonify({"message": "wrong input"})
+
   ds = pd.read_csv("dataset/dataset.csv")
-  ds = ds.to_json(orient='records')
-  ds = json.loads(ds)
-  return jsonify({"dataset": ds})
+  take_many = ds.head(row)
+  true_label = len(ds[ds['kelayakan'] == "Layak"])
+  false_label = len(ds[ds['kelayakan'] == "Tidak Layak"])
+  take_many = take_many.to_json(orient='records')
+  total = len(ds)
+  take_many = json.loads(take_many)
+  return jsonify({"dataset": take_many, "total": total, "true_label": true_label, "false_label": false_label})
+
+@app.route('/member')
+@cross_origin()
+def member():
+  meber = get_member()
+  return jsonify({"member": meber})
 
 @app.route('/predict', methods=['POST'])
 @cross_origin()
