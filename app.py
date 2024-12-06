@@ -1,60 +1,75 @@
+import json
+
+import pandas as pd
 from flask import Flask, jsonify, request
 from flask_cors import CORS, cross_origin
-import pandas as pd
-import json
-from resources.preprocessing import preprocessing, get_input
-from resources.fuzzy import fuzzification, inference, defuzzification
+
+from resources.fuzzy import defuzzification, fuzzification, inference
 from resources.member import get_member
+from resources.preprocessing import get_input, preprocessing
 
 app = Flask(__name__)
 cors = CORS(app)
-app.config['CORS_HEADERS'] = 'Content-Type'
+app.config["CORS_HEADERS"] = "Content-Type"
 
-@app.route('/')
+
+@app.route("/")
 @cross_origin()
 def home():
-  return jsonify({"message": "kelayakan-pinjaman"})
+    return jsonify({"message": "kelayakan-pinjaman"})
 
-@app.route('/dataset')
+
+@app.route("/dataset")
 @cross_origin()
 def dataset():
+    row = request.args.get("row")
 
-  row = request.args.get('row')
+    try:
+        if row is None:
+            row = 10
+        row = int(row)
+    except ValueError:
+        return jsonify({"message": "wrong input"})
 
-  try:
-    if row is None:
-      row = 10
-    row = int(row)
-  except ValueError:
-    return jsonify({"message": "wrong input"})
+    ds = pd.read_csv("dataset/dataset.csv")
+    take_many = ds.head(row)
+    true_label = len(ds[ds["kelayakan"] == "Layak"])
+    false_label = len(ds[ds["kelayakan"] == "Tidak Layak"])
+    take_many = take_many.to_json(orient="records")
+    total = len(ds)
+    take_many = json.loads(take_many)
+    return jsonify(
+        {
+            "dataset": take_many,
+            "total": total,
+            "true_label": true_label,
+            "false_label": false_label,
+        }
+    )
 
-  ds = pd.read_csv("dataset/dataset.csv")
-  take_many = ds.head(row)
-  true_label = len(ds[ds['kelayakan'] == "Layak"])
-  false_label = len(ds[ds['kelayakan'] == "Tidak Layak"])
-  take_many = take_many.to_json(orient='records')
-  total = len(ds)
-  take_many = json.loads(take_many)
-  return jsonify({"dataset": take_many, "total": total, "true_label": true_label, "false_label": false_label})
 
-@app.route('/member')
+@app.route("/member")
 @cross_origin()
 def member():
-  meber = get_member()
-  return jsonify({"member": meber})
+    meber = get_member()
+    return jsonify({"member": meber})
 
-@app.route('/predict', methods=['POST'])
+
+@app.route("/predict", methods=["POST"])
 @cross_origin()
 def predict():
-  data = request.get_json()
-  pendapatan, usia, tanggungan, pengeluaran, aset = get_input(data)
-  rules = preprocessing(pd.read_csv("dataset/dataset.csv"))
+    data = request.get_json()
+    pendapatan, usia, tanggungan, pengeluaran, aset = get_input(data)
+    rules = preprocessing(pd.read_csv("dataset/dataset.csv"))
 
-  fuzzification_values = fuzzification(pendapatan, usia, tanggungan, pengeluaran, aset)
-  z, a = inference(fuzzification_values, rules)
-  result = round(defuzzification(z, a), 2)
+    fuzzification_values = fuzzification(
+        pendapatan, usia, tanggungan, pengeluaran, aset
+    )
+    z, a = inference(fuzzification_values, rules)
+    result = round(defuzzification(z, a), 2)
 
-  return jsonify({"result": result})
+    return jsonify({"result": result})
 
-if __name__ == '__main__':
-  app.run()
+
+if __name__ == "__main__":
+    app.run()
