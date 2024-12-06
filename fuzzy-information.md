@@ -24,6 +24,8 @@
 
 ![pendapatan](resources/membership-functions/pendapatan.png)
 
+\begin{cases} 1, & x \leq 1 \\ \frac{3 - x}{3 - 1}, & 1 < x < 3 \\ 0, & x \geq 3 \end{cases}
+
 <br>
 
 <b>Fungsi Keanggotaan Usia</b>
