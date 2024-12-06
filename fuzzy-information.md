@@ -18,9 +18,9 @@
 
 <b>Fungsi Keanggotaan Pendapatan</b>
 
-| rendah(x)                                                                                    | sedang(x)                                                                                                                                                      | tinggi(x)                                                                                    |
-| -------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------- |
-| \begin{cases} 1, & x \leq 1 \\ \frac{3 - x}{3 - 1}, & 1 < x < 3 \\ 0, & x \geq 3 \end{cases} | \begin{cases} 0, & x \leq 1 \text{ atau } x \geq 7 \\ \frac{x - 1}{3 - 1}, & 1 < x < 3 \\ 1, & 3 \leq x \leq 5 \\ \frac{7 - x}{7 - 5}, & 5 < x < 7 \end{cases} | \begin{cases} 0, & x \leq 5 \\ \frac{x - 5}{7 - 5}, & 5 < x < 7 \\ 1, & x \geq 7 \end{cases} |
+| rendah(x) | sedang(x) | tinggi(x) |
+|--------|--------|--------|
+| \begin{cases} 1, & x \leq 1 \\ \frac{3 - x}{3 - 1}, & 1 < x < 3 \\ 0, & x \geq 3 \end{cases} | \begin{cases} 0, & x \leq 1 \text{ atau } x \geq 7 \\ \frac{x - 1}{3 - 1}, & 1 < x < 3 \\ 1, & 3 \leq x \leq 5 \\ \frac{7 - x}{7 - 5}, & 5 < x < 7 \end{cases} | \begin{cases} 0, & x \leq 5 \\ \frac{x - 5}{7 - 5}, & 5 < x < 7 \\ 1, & x \geq 7 \end{cases}
 
 ![pendapatan](resources/membership-functions/pendapatan.png)
 
