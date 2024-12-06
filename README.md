@@ -5,7 +5,7 @@ This repository contains the backend data for the **Loan Eligibility** applicati
 ## Base URL
 
 - https://kelayakan-pinjaman-backend.vercel.app
-- Access Colab: (Here)[https://colab.research.google.com/drive/1P2qeWxOnwBv67Jkw47Z5kVm2ykOqkxY_?usp=sharing]
+- Access Colab: [Here](https://colab.research.google.com/drive/1P2qeWxOnwBv67Jkw47Z5kVm2ykOqkxY_?usp=sharing)
 
 ## Endpoints
 
