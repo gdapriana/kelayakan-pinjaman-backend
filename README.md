@@ -4,6 +4,8 @@
 
 This backend application determines loan eligibility using the Fuzzy Tsukamoto method. It provides intelligent loan assessment based on multiple financial parameters.
 
+### Fuzzy Preparation (Here)[/fuzzy-information.md]
+
 ## 🚀 Project Demo
 
 - **Backend Server:** [kelayakan-pinjaman-backend.vercel.app](https://kelayakan-pinjaman-backend.vercel.app)
