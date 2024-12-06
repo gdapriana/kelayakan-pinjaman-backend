@@ -8,6 +8,7 @@ This backend application determines loan eligibility using the Fuzzy Tsukamoto m
 
 - **Backend Server:** [kelayakan-pinjaman-backend.vercel.app](https://kelayakan-pinjaman-backend.vercel.app)
 - **Frontend Application:** [kelayakanpinjaman.vercel.app/](https://kelayakanpinjaman.vercel.app/)
+- **Frontend Repository:** [github/gdapriana/kelayakan-pinjaman-frontend](https://github.com/gdapriana/kelayakan-pinjaman-frontend)
 
 ## 📂 Project Structure
 
