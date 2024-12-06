@@ -1,58 +1,75 @@
 # Loan Eligibility Backend
 
-This repository contains the backend data for the **Loan Eligibility** application, which uses the _Fuzzy Tsukamoto_ method to determine whether a person is eligible for a loan or not.
+## 🏦 Project Overview
 
-## Base URL
+This backend application determines loan eligibility using the Fuzzy Tsukamoto method. It provides intelligent loan assessment based on multiple financial parameters.
 
-- https://kelayakan-pinjaman-backend.vercel.app
-- Access Colab: [Here](https://colab.research.google.com/drive/1P2qeWxOnwBv67Jkw47Z5kVm2ykOqkxY_?usp=sharing)
+## 🚀 Project Demo
 
-## Endpoints
+- **Backend Server:** [kelayakan-pinjaman-backend.vercel.app](https://kelayakan-pinjaman-backend.vercel.app)
+- **Frontend Application:** [kelayakanpinjaman.vercel.app/](https://kelayakanpinjaman.vercel.app/)
 
-### 1. Loan Eligibility Prediction
+## 📂 Project Structure
+
+```
+kelayakan-pinjaman-backend/
+│
+├── dataset/                 # Contains project datasets
+├── resources/
+│   ├── fuzzy.py             # Fuzzy Tsukamoto logic implementation
+│   ├── member.py            # Project team information
+│   └── preprocessing.py     # Data preprocessing utilities
+└── app.py                   # Main application entry point
+```
+
+## 🔍 API Endpoints
+
+### 1. Predict Loan Eligibility
 
 - **URL:** `/predict`
 - **Method:** `POST`
 - **Request Body:**
-  - `pendapatan`: `float`
-  - `usia`: `int`
-  - `tanggungan`: `int`
-  - `pengeluaran`: `float`
-  - `aset`: `float`
+  ```json
+  {
+    "pendapatan": float,
+    "usia": int,
+    "tanggungan": int,
+    "pengeluaran": float,
+    "aset": float
+  }
+  ```
 
 ### 2. Dataset Information
 
 - **URL:** `/dataset`
 - **Method:** `GET`
-- **Description:** Provides information about the dataset used.
+- **Description:** Provides details about the dataset used for loan eligibility prediction
 
-### 3. Team Member Information
+### 3. Team Members
 
 - **URL:** `/member`
 - **Method:** `GET`
-- **Description:** Provides information about the team members who worked on this project.
+- **Description:** Returns information about the project team
 
-## Application Frontend
+## 🧠 Methodology
 
-To access the frontend of this application, please visit: [Loan Eligibility Frontend](https://kelayakanpinjaman.vercel.app/)
+The application uses the Fuzzy Tsukamoto method to assess loan eligibility. This approach allows for intelligent and nuanced decision-making by:
 
-## How to Run the Project
+- Converting crisp input values to fuzzy input
+- Applying fuzzy inference rules
+- Defuzzifying results to determine loan eligibility
 
-1. Clone this repository: `git clone https://github.com/username/kelayakan-pinjaman-backend.git`
-2. Navigate to the project directory: `cd kelayakan-pinjaman-backend`
-3. Install dependencies: `npm install`
-4. Start the server: `npm start`
+## 🛠️ Technologies Used
 
-## Contribution
+- Python
+- Flask
+- Fuzzy Logic
+- Vercel (Deployment)
 
-We highly appreciate contributions from anyone. To contribute, follow these steps:
+## 👥 Team
 
-1. Fork this repository.
-2. Create a new feature branch: `git checkout -b your-feature`
-3. Commit your changes: `git commit -m 'Add feature ABC'`
-4. Push to the branch: `git push origin your-feature`
-5. Submit a pull request.
+For detailed team information, please check the `/member` endpoint or contact the repository maintainers.
 
-## License
+## 🤝 Contributing
 
-This project is licensed under the MIT License.
+Interested in contributing? Please read our contributing guidelines and feel free to submit pull requests.
