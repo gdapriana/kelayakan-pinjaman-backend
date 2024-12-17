@@ -52,9 +52,9 @@ def inference(fuzzification_values, rules):
       aset[rule[4]])
     a.append(alpha)
 
-    if rule[-1] == "Tidak Layak":
+    if rule[-1] == "tidak Layak":
       z.append(90 if alpha == 0 else 10 if alpha == 1 else (90 - (alpha * (90 - 10))))
-    if rule[-1] == "Layak"  :
+    if rule[-1] == "layak"  :
       z.append(10 if alpha == 0 else 90 if alpha == 1 else ((alpha * (90 - 10)) + 10))
 
   return z, a
