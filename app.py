@@ -33,8 +33,8 @@ def dataset():
 
     ds = pd.read_csv("dataset/dataset2.csv")
     take_many = ds.head(row)
-    true_label = len(ds[ds["kelayakan"] == "layak"])
-    false_label = len(ds[ds["kelayakan"] == "tidak layak"])
+    true_label = len(ds[ds["Kelayakan"] == "layak"])
+    false_label = len(ds[ds["Kelayakan"] == "tidak layak"])
     take_many = take_many.to_json(orient="records")
     total = len(ds)
     take_many = json.loads(take_many)
