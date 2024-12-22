@@ -31,10 +31,10 @@ def dataset():
     except ValueError:
         return jsonify({"message": "wrong input"})
 
-    ds = pd.read_csv("dataset/dataset.csv")
+    ds = pd.read_csv("dataset/dataset2.csv")
     take_many = ds.head(row)
-    true_label = len(ds[ds["kelayakan"] == "Layak"])
-    false_label = len(ds[ds["kelayakan"] == "Tidak Layak"])
+    true_label = len(ds[ds["kelayakan"] == "layak"])
+    false_label = len(ds[ds["kelayakan"] == "tidak layak"])
     take_many = take_many.to_json(orient="records")
     total = len(ds)
     take_many = json.loads(take_many)
@@ -59,11 +59,11 @@ def member():
 @cross_origin()
 def predict():
     data = request.get_json()
-    pendapatan, usia, tanggungan, pengeluaran, aset = get_input(data)
-    rules = preprocessing(pd.read_csv("dataset/dataset.csv"))
+    pendapatan, usia, tanggungan, pengeluaran, aset, durasi_peminjaman = get_input(data)
+    rules = preprocessing(pd.read_csv("dataset/dataset2.csv"))
 
     fuzzification_values = fuzzification(
-        pendapatan, usia, tanggungan, pengeluaran, aset
+        pendapatan, usia, tanggungan, pengeluaran, aset, durasi_peminjaman
     )
     z, a = inference(fuzzification_values, rules)
     result = round(defuzzification(z, a), 2)

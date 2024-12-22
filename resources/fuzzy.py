@@ -1,4 +1,4 @@
-def fuzzification(pendapatan, usia, tanggungan, pengeluaran, aset):
+def fuzzification(pendapatan, usia, tanggungan, pengeluaran, aset, durasi_peminjaman):
   fuzz_pendapatan = [
     max(0, min(1, (3 - pendapatan) / 2 if 1 < pendapatan < 3 else 1 if pendapatan <= 1 else 0)),
     max(0, min(1, (pendapatan - 1) / 2 if 1 < pendapatan < 3 else 1 if 3 <= pendapatan <= 5 else (7 - pendapatan) / 2 if 5 < pendapatan < 7 else 0)),
@@ -30,12 +30,19 @@ def fuzzification(pendapatan, usia, tanggungan, pengeluaran, aset):
     max(0, min(1, (aset - 40) / 20 if 40 < aset < 60 else 1 if aset >= 60 else 0 ))
   ]
 
+  fuzz_durasi_peminjaman = [
+    max(0, min(1, ( 10 - durasi_peminjaman ) / 5 if 5 < durasi_peminjaman < 10 else 1 if durasi_peminjaman <= 5 else 0)),
+    max(0, min(1, (durasi_peminjaman - 5) / 5 if 5 < durasi_peminjaman < 10 else 1 if 10 <= durasi_peminjaman <= 15 else ( 20 - durasi_peminjaman ) / 5 if 20 < aset < 15 else 0)),
+    max(0, min(1, (durasi_peminjaman - 15) / 5 if 15 < durasi_peminjaman < 20 else 1 if durasi_peminjaman >= 20 else 0 ))
+  ]
+
   return {
     "pendapatan": fuzz_pendapatan,
     "usia": fuzz_usia,
     "tanggungan": fuzz_tanggungan,
     "pengeluaran": fuzz_pengeluaran,
-    "aset": fuzz_aset
+    "aset": fuzz_aset,
+    "durasi_peminjaman": fuzz_durasi_peminjaman
   }
 
 
@@ -47,6 +54,7 @@ def inference(fuzzification_values, rules):
   tanggungan = fuzzification_values["tanggungan"]
   pengeluaran = fuzzification_values["pengeluaran"]
   aset = fuzzification_values["aset"]
+  durasi_peminjaman = fuzzification_values["durasi_peminjaman"]
 
   for rule in rules:
     alpha = min(
@@ -54,7 +62,9 @@ def inference(fuzzification_values, rules):
       usia[rule[1]],
       tanggungan[rule[2]],
       pengeluaran[rule[3]],
-      aset[rule[4]])
+      aset[rule[4]],
+      durasi_peminjaman[rule[5]])
+
     a.append(alpha)
 
     if rule[-1] == "tidak layak":

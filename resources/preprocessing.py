@@ -9,25 +9,31 @@ def encode_pengeluaran(pengeluaran):
 def encode_aset(aset):
   return 0 if aset == "sedikit" else 1 if aset == "sedang" else 2
 
+def encode_durasi_peminjaman(durasi_peminjaman):
+  return 0 if durasi_peminjaman == "pendek" else 1 if durasi_peminjaman == "sedang" else 2
+
 def get_input(data):
   pendapatan  = float(data["pendapatan"])
   usia        = float(data["usia"])
   tanggungan  = float(data["tanggungan"])
   pengeluaran = float(data["pengeluaran"])
   aset        = float(data["aset"])
-  return pendapatan, usia, tanggungan, pengeluaran, aset
+  durasi_peminjaman = float(data["durasi_peminjaman"])
+  return pendapatan, usia, tanggungan, pengeluaran, aset, durasi_peminjaman
 
 def preprocessing(dataset):
-  df = dataset.rename(columns={"pendapatan (jt/bln)": "pendapatan",
-                          "usia (tahun)": "usia",
-                          "tanggungan (orang)": "tanggungan",
-                          "pengeluaran (jt/bln)": "pengeluaran",
-                          "aset (juta)": "aset",
-                          "kelayakan": "kelayakan"})
+  df = dataset.rename(columns={"Pendapatan": "pendapatan",
+                          "Usia": "usia",
+                          "Tanggungan": "tanggungan",
+                          "Pengeluaran": "pengeluaran",
+                          "Aset": "aset",
+                          "Durasi Peminjaman": "durasi_peminjaman",
+                          "Kelayakan": "kelayakan"})
 
   df['pendapatan'] = df['pendapatan'].apply(encode_pendapatan)
   df['usia'] = df['usia'].apply(encode_usia)
   df['tanggungan'] = df['tanggungan'].apply(encode_tanggungan)
   df['pengeluaran'] = df['pengeluaran'].apply(encode_pengeluaran)
   df['aset'] = df['aset'].apply(encode_aset)
+  df['durasi_peminjaman'] = df['durasi_peminjaman'].apply(encode_durasi_peminjaman)
   return df.to_numpy()

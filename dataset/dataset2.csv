@@ -1,0 +1,973 @@
+Pendapatan,Usia,Tanggungan,Pengeluaran,Aset,Durasi Peminjaman,Kelayakan
+rendah,muda,sedikit,rendah,sedikit,pendek,layak
+rendah,muda,sedikit,rendah,sedikit,sedang,tidak layak
+rendah,muda,sedikit,rendah,sedikit,panjang,tidak layak
+rendah,muda,sedikit,rendah,sedang,pendek,layak
+rendah,muda,sedikit,rendah,sedang,sedang,layak
+rendah,muda,sedikit,rendah,sedang,panjang,tidak layak
+rendah,muda,sedikit,rendah,banyak,pendek,layak
+rendah,muda,sedikit,rendah,banyak,sedang,layak
+rendah,muda,sedikit,rendah,banyak,panjang,layak
+rendah,muda,sedikit,sedang,sedikit,pendek,tidak layak
+rendah,muda,sedikit,sedang,sedikit,sedang,tidak layak
+rendah,muda,sedikit,sedang,sedikit,panjang,tidak layak
+rendah,muda,sedikit,sedang,sedang,pendek,layak
+rendah,muda,sedikit,sedang,sedang,sedang,tidak layak
+rendah,muda,sedikit,sedang,sedang,panjang,tidak layak
+rendah,muda,sedikit,sedang,banyak,pendek,layak
+rendah,muda,sedikit,sedang,banyak,sedang,layak
+rendah,muda,sedikit,sedang,banyak,panjang,tidak layak
+rendah,muda,sedikit,tinggi,sedikit,pendek,tidak layak
+rendah,muda,sedikit,tinggi,sedikit,sedang,tidak layak
+rendah,muda,sedikit,tinggi,sedikit,panjang,tidak layak
+rendah,muda,sedikit,tinggi,sedang,pendek,tidak layak
+rendah,muda,sedikit,tinggi,sedang,sedang,tidak layak
+rendah,muda,sedikit,tinggi,sedang,panjang,tidak layak
+rendah,muda,sedikit,tinggi,banyak,pendek,layak
+rendah,muda,sedikit,tinggi,banyak,sedang,tidak layak
+rendah,muda,sedikit,tinggi,banyak,panjang,tidak layak
+rendah,muda,sedang,rendah,sedikit,pendek,tidak layak
+rendah,muda,sedang,rendah,sedikit,sedang,tidak layak
+rendah,muda,sedang,rendah,sedikit,panjang,tidak layak
+rendah,muda,sedang,rendah,sedang,pendek,layak
+rendah,muda,sedang,rendah,sedang,sedang,tidak layak
+rendah,muda,sedang,rendah,sedang,panjang,tidak layak
+rendah,muda,sedang,rendah,banyak,pendek,layak
+rendah,muda,sedang,rendah,banyak,sedang,layak
+rendah,muda,sedang,rendah,banyak,panjang,tidak layak
+rendah,muda,sedang,sedang,sedikit,pendek,tidak layak
+rendah,muda,sedang,sedang,sedikit,sedang,tidak layak
+rendah,muda,sedang,sedang,sedikit,panjang,tidak layak
+rendah,muda,sedang,sedang,sedang,pendek,tidak layak
+rendah,muda,sedang,sedang,sedang,sedang,tidak layak
+rendah,muda,sedang,sedang,sedang,panjang,tidak layak
+rendah,muda,sedang,sedang,banyak,pendek,layak
+rendah,muda,sedang,sedang,banyak,sedang,tidak layak
+rendah,muda,sedang,sedang,banyak,panjang,tidak layak
+rendah,muda,sedang,tinggi,sedikit,pendek,tidak layak
+rendah,muda,sedang,tinggi,sedikit,sedang,tidak layak
+rendah,muda,sedang,tinggi,sedikit,panjang,tidak layak
+rendah,muda,sedang,tinggi,sedang,pendek,tidak layak
+rendah,muda,sedang,tinggi,sedang,sedang,tidak layak
+rendah,muda,sedang,tinggi,sedang,panjang,tidak layak
+rendah,muda,sedang,tinggi,banyak,pendek,tidak layak
+rendah,muda,sedang,tinggi,banyak,sedang,tidak layak
+rendah,muda,sedang,tinggi,banyak,panjang,tidak layak
+rendah,muda,banyak,rendah,sedikit,pendek,tidak layak
+rendah,muda,banyak,rendah,sedikit,sedang,tidak layak
+rendah,muda,banyak,rendah,sedikit,panjang,tidak layak
+rendah,muda,banyak,rendah,sedang,pendek,tidak layak
+rendah,muda,banyak,rendah,sedang,sedang,tidak layak
+rendah,muda,banyak,rendah,sedang,panjang,tidak layak
+rendah,muda,banyak,rendah,banyak,pendek,layak
+rendah,muda,banyak,rendah,banyak,sedang,tidak layak
+rendah,muda,banyak,rendah,banyak,panjang,tidak layak
+rendah,muda,banyak,sedang,sedikit,pendek,tidak layak
+rendah,muda,banyak,sedang,sedikit,sedang,tidak layak
+rendah,muda,banyak,sedang,sedikit,panjang,tidak layak
+rendah,muda,banyak,sedang,sedang,pendek,tidak layak
+rendah,muda,banyak,sedang,sedang,sedang,tidak layak
+rendah,muda,banyak,sedang,sedang,panjang,tidak layak
+rendah,muda,banyak,sedang,banyak,pendek,tidak layak
+rendah,muda,banyak,sedang,banyak,sedang,tidak layak
+rendah,muda,banyak,sedang,banyak,panjang,tidak layak
+rendah,muda,banyak,tinggi,sedikit,pendek,tidak layak
+rendah,muda,banyak,tinggi,sedikit,sedang,tidak layak
+rendah,muda,banyak,tinggi,sedikit,panjang,tidak layak
+rendah,muda,banyak,tinggi,sedang,pendek,tidak layak
+rendah,muda,banyak,tinggi,sedang,sedang,tidak layak
+rendah,muda,banyak,tinggi,sedang,panjang,tidak layak
+rendah,muda,banyak,tinggi,banyak,pendek,tidak layak
+rendah,muda,banyak,tinggi,banyak,sedang,tidak layak
+rendah,muda,banyak,tinggi,banyak,panjang,tidak layak
+rendah,parobaya,sedikit,rendah,sedikit,pendek,layak
+rendah,parobaya,sedikit,rendah,sedikit,sedang,layak
+rendah,parobaya,sedikit,rendah,sedikit,panjang,layak
+rendah,parobaya,sedikit,rendah,sedang,pendek,layak
+rendah,parobaya,sedikit,rendah,sedang,sedang,layak
+rendah,parobaya,sedikit,rendah,sedang,panjang,layak
+rendah,parobaya,sedikit,rendah,banyak,pendek,layak
+rendah,parobaya,sedikit,rendah,banyak,sedang,layak
+rendah,parobaya,sedikit,rendah,banyak,panjang,layak
+rendah,parobaya,sedikit,sedang,sedikit,pendek,layak
+rendah,parobaya,sedikit,sedang,sedikit,sedang,layak
+rendah,parobaya,sedikit,sedang,sedikit,panjang,tidak layak
+rendah,parobaya,sedikit,sedang,sedang,pendek,layak
+rendah,parobaya,sedikit,sedang,sedang,sedang,layak
+rendah,parobaya,sedikit,sedang,sedang,panjang,layak
+rendah,parobaya,sedikit,sedang,banyak,pendek,layak
+rendah,parobaya,sedikit,sedang,banyak,sedang,layak
+rendah,parobaya,sedikit,sedang,banyak,panjang,layak
+rendah,parobaya,sedikit,tinggi,sedikit,pendek,layak
+rendah,parobaya,sedikit,tinggi,sedikit,sedang,tidak layak
+rendah,parobaya,sedikit,tinggi,sedikit,panjang,tidak layak
+rendah,parobaya,sedikit,tinggi,sedang,pendek,layak
+rendah,parobaya,sedikit,tinggi,sedang,sedang,layak
+rendah,parobaya,sedikit,tinggi,sedang,panjang,tidak layak
+rendah,parobaya,sedikit,tinggi,banyak,pendek,layak
+rendah,parobaya,sedikit,tinggi,banyak,sedang,layak
+rendah,parobaya,sedikit,tinggi,banyak,panjang,layak
+rendah,parobaya,sedang,rendah,sedikit,pendek,layak
+rendah,parobaya,sedang,rendah,sedikit,sedang,layak
+rendah,parobaya,sedang,rendah,sedikit,panjang,tidak layak
+rendah,parobaya,sedang,rendah,sedang,pendek,layak
+rendah,parobaya,sedang,rendah,sedang,sedang,layak
+rendah,parobaya,sedang,rendah,sedang,panjang,layak
+rendah,parobaya,sedang,rendah,banyak,pendek,layak
+rendah,parobaya,sedang,rendah,banyak,sedang,layak
+rendah,parobaya,sedang,rendah,banyak,panjang,layak
+rendah,parobaya,sedang,sedang,sedikit,pendek,layak
+rendah,parobaya,sedang,sedang,sedikit,sedang,tidak layak
+rendah,parobaya,sedang,sedang,sedikit,panjang,tidak layak
+rendah,parobaya,sedang,sedang,sedang,pendek,layak
+rendah,parobaya,sedang,sedang,sedang,sedang,layak
+rendah,parobaya,sedang,sedang,sedang,panjang,tidak layak
+rendah,parobaya,sedang,sedang,banyak,pendek,layak
+rendah,parobaya,sedang,sedang,banyak,sedang,layak
+rendah,parobaya,sedang,sedang,banyak,panjang,layak
+rendah,parobaya,sedang,tinggi,sedikit,pendek,tidak layak
+rendah,parobaya,sedang,tinggi,sedikit,sedang,tidak layak
+rendah,parobaya,sedang,tinggi,sedikit,panjang,tidak layak
+rendah,parobaya,sedang,tinggi,sedang,pendek,layak
+rendah,parobaya,sedang,tinggi,sedang,sedang,tidak layak
+rendah,parobaya,sedang,tinggi,sedang,panjang,tidak layak
+rendah,parobaya,sedang,tinggi,banyak,pendek,layak
+rendah,parobaya,sedang,tinggi,banyak,sedang,layak
+rendah,parobaya,sedang,tinggi,banyak,panjang,tidak layak
+rendah,parobaya,banyak,rendah,sedikit,pendek,layak
+rendah,parobaya,banyak,rendah,sedikit,sedang,tidak layak
+rendah,parobaya,banyak,rendah,sedikit,panjang,tidak layak
+rendah,parobaya,banyak,rendah,sedang,pendek,layak
+rendah,parobaya,banyak,rendah,sedang,sedang,layak
+rendah,parobaya,banyak,rendah,sedang,panjang,tidak layak
+rendah,parobaya,banyak,rendah,banyak,pendek,layak
+rendah,parobaya,banyak,rendah,banyak,sedang,layak
+rendah,parobaya,banyak,rendah,banyak,panjang,layak
+rendah,parobaya,banyak,sedang,sedikit,pendek,tidak layak
+rendah,parobaya,banyak,sedang,sedikit,sedang,tidak layak
+rendah,parobaya,banyak,sedang,sedikit,panjang,tidak layak
+rendah,parobaya,banyak,sedang,sedang,pendek,layak
+rendah,parobaya,banyak,sedang,sedang,sedang,tidak layak
+rendah,parobaya,banyak,sedang,sedang,panjang,tidak layak
+rendah,parobaya,banyak,sedang,banyak,pendek,layak
+rendah,parobaya,banyak,sedang,banyak,sedang,layak
+rendah,parobaya,banyak,sedang,banyak,panjang,tidak layak
+rendah,parobaya,banyak,tinggi,sedikit,pendek,tidak layak
+rendah,parobaya,banyak,tinggi,sedikit,sedang,tidak layak
+rendah,parobaya,banyak,tinggi,sedikit,panjang,tidak layak
+rendah,parobaya,banyak,tinggi,sedang,pendek,tidak layak
+rendah,parobaya,banyak,tinggi,sedang,sedang,tidak layak
+rendah,parobaya,banyak,tinggi,sedang,panjang,tidak layak
+rendah,parobaya,banyak,tinggi,banyak,pendek,layak
+rendah,parobaya,banyak,tinggi,banyak,sedang,tidak layak
+rendah,parobaya,banyak,tinggi,banyak,panjang,tidak layak
+rendah,tua,sedikit,rendah,sedikit,pendek,layak
+rendah,tua,sedikit,rendah,sedikit,sedang,layak
+rendah,tua,sedikit,rendah,sedikit,panjang,layak
+rendah,tua,sedikit,rendah,sedang,pendek,layak
+rendah,tua,sedikit,rendah,sedang,sedang,layak
+rendah,tua,sedikit,rendah,sedang,panjang,layak
+rendah,tua,sedikit,rendah,banyak,pendek,layak
+rendah,tua,sedikit,rendah,banyak,sedang,layak
+rendah,tua,sedikit,rendah,banyak,panjang,layak
+rendah,tua,sedikit,sedang,sedikit,pendek,layak
+rendah,tua,sedikit,sedang,sedikit,sedang,layak
+rendah,tua,sedikit,sedang,sedikit,panjang,tidak layak
+rendah,tua,sedikit,sedang,sedang,pendek,layak
+rendah,tua,sedikit,sedang,sedang,sedang,layak
+rendah,tua,sedikit,sedang,sedang,panjang,layak
+rendah,tua,sedikit,sedang,banyak,pendek,layak
+rendah,tua,sedikit,sedang,banyak,sedang,layak
+rendah,tua,sedikit,sedang,banyak,panjang,layak
+rendah,tua,sedikit,tinggi,sedikit,pendek,layak
+rendah,tua,sedikit,tinggi,sedikit,sedang,tidak layak
+rendah,tua,sedikit,tinggi,sedikit,panjang,tidak layak
+rendah,tua,sedikit,tinggi,sedang,pendek,layak
+rendah,tua,sedikit,tinggi,sedang,sedang,layak
+rendah,tua,sedikit,tinggi,sedang,panjang,tidak layak
+rendah,tua,sedikit,tinggi,banyak,pendek,layak
+rendah,tua,sedikit,tinggi,banyak,sedang,layak
+rendah,tua,sedikit,tinggi,banyak,panjang,layak
+rendah,tua,sedang,rendah,sedikit,pendek,layak
+rendah,tua,sedang,rendah,sedikit,sedang,layak
+rendah,tua,sedang,rendah,sedikit,panjang,tidak layak
+rendah,tua,sedang,rendah,sedang,pendek,layak
+rendah,tua,sedang,rendah,sedang,sedang,layak
+rendah,tua,sedang,rendah,sedang,panjang,layak
+rendah,tua,sedang,rendah,banyak,pendek,layak
+rendah,tua,sedang,rendah,banyak,sedang,layak
+rendah,tua,sedang,rendah,banyak,panjang,layak
+rendah,tua,sedang,sedang,sedikit,pendek,layak
+rendah,tua,sedang,sedang,sedikit,sedang,tidak layak
+rendah,tua,sedang,sedang,sedikit,panjang,tidak layak
+rendah,tua,sedang,sedang,sedang,pendek,layak
+rendah,tua,sedang,sedang,sedang,sedang,layak
+rendah,tua,sedang,sedang,sedang,panjang,tidak layak
+rendah,tua,sedang,sedang,banyak,pendek,layak
+rendah,tua,sedang,sedang,banyak,sedang,layak
+rendah,tua,sedang,sedang,banyak,panjang,layak
+rendah,tua,sedang,tinggi,sedikit,pendek,tidak layak
+rendah,tua,sedang,tinggi,sedikit,sedang,tidak layak
+rendah,tua,sedang,tinggi,sedikit,panjang,tidak layak
+rendah,tua,sedang,tinggi,sedang,pendek,layak
+rendah,tua,sedang,tinggi,sedang,sedang,tidak layak
+rendah,tua,sedang,tinggi,sedang,panjang,tidak layak
+rendah,tua,sedang,tinggi,banyak,pendek,layak
+rendah,tua,sedang,tinggi,banyak,sedang,layak
+rendah,tua,sedang,tinggi,banyak,panjang,tidak layak
+rendah,tua,banyak,rendah,sedikit,pendek,layak
+rendah,tua,banyak,rendah,sedikit,sedang,tidak layak
+rendah,tua,banyak,rendah,sedikit,panjang,tidak layak
+rendah,tua,banyak,rendah,sedang,pendek,layak
+rendah,tua,banyak,rendah,sedang,sedang,layak
+rendah,tua,banyak,rendah,sedang,panjang,tidak layak
+rendah,tua,banyak,rendah,banyak,pendek,layak
+rendah,tua,banyak,rendah,banyak,sedang,layak
+rendah,tua,banyak,rendah,banyak,panjang,layak
+rendah,tua,banyak,sedang,sedikit,pendek,tidak layak
+rendah,tua,banyak,sedang,sedikit,sedang,tidak layak
+rendah,tua,banyak,sedang,sedikit,panjang,tidak layak
+rendah,tua,banyak,sedang,sedang,pendek,layak
+rendah,tua,banyak,sedang,sedang,sedang,tidak layak
+rendah,tua,banyak,sedang,sedang,panjang,tidak layak
+rendah,tua,banyak,sedang,banyak,pendek,layak
+rendah,tua,banyak,sedang,banyak,sedang,layak
+rendah,tua,banyak,sedang,banyak,panjang,tidak layak
+rendah,tua,banyak,tinggi,sedikit,pendek,tidak layak
+rendah,tua,banyak,tinggi,sedikit,sedang,tidak layak
+rendah,tua,banyak,tinggi,sedikit,panjang,tidak layak
+rendah,tua,banyak,tinggi,sedang,pendek,tidak layak
+rendah,tua,banyak,tinggi,sedang,sedang,tidak layak
+rendah,tua,banyak,tinggi,sedang,panjang,tidak layak
+rendah,tua,banyak,tinggi,banyak,pendek,layak
+rendah,tua,banyak,tinggi,banyak,sedang,tidak layak
+rendah,tua,banyak,tinggi,banyak,panjang,tidak layak
+rendah,sangat tua,sedikit,rendah,sedikit,pendek,layak
+rendah,sangat tua,sedikit,rendah,sedikit,sedang,tidak layak
+rendah,sangat tua,sedikit,rendah,sedikit,panjang,tidak layak
+rendah,sangat tua,sedikit,rendah,sedang,pendek,layak
+rendah,sangat tua,sedikit,rendah,sedang,sedang,layak
+rendah,sangat tua,sedikit,rendah,sedang,panjang,tidak layak
+rendah,sangat tua,sedikit,rendah,banyak,pendek,layak
+rendah,sangat tua,sedikit,rendah,banyak,sedang,layak
+rendah,sangat tua,sedikit,rendah,banyak,panjang,layak
+rendah,sangat tua,sedikit,sedang,sedikit,pendek,tidak layak
+rendah,sangat tua,sedikit,sedang,sedikit,sedang,tidak layak
+rendah,sangat tua,sedikit,sedang,sedikit,panjang,tidak layak
+rendah,sangat tua,sedikit,sedang,sedang,pendek,layak
+rendah,sangat tua,sedikit,sedang,sedang,sedang,tidak layak
+rendah,sangat tua,sedikit,sedang,sedang,panjang,tidak layak
+rendah,sangat tua,sedikit,sedang,banyak,pendek,layak
+rendah,sangat tua,sedikit,sedang,banyak,sedang,layak
+rendah,sangat tua,sedikit,sedang,banyak,panjang,tidak layak
+rendah,sangat tua,sedikit,tinggi,sedikit,pendek,tidak layak
+rendah,sangat tua,sedikit,tinggi,sedikit,sedang,tidak layak
+rendah,sangat tua,sedikit,tinggi,sedikit,panjang,tidak layak
+rendah,sangat tua,sedikit,tinggi,sedang,pendek,tidak layak
+rendah,sangat tua,sedikit,tinggi,sedang,sedang,tidak layak
+rendah,sangat tua,sedikit,tinggi,sedang,panjang,tidak layak
+rendah,sangat tua,sedikit,tinggi,banyak,pendek,layak
+rendah,sangat tua,sedikit,tinggi,banyak,sedang,tidak layak
+rendah,sangat tua,sedikit,tinggi,banyak,panjang,tidak layak
+rendah,sangat tua,sedang,rendah,sedikit,pendek,tidak layak
+rendah,sangat tua,sedang,rendah,sedikit,sedang,tidak layak
+rendah,sangat tua,sedang,rendah,sedikit,panjang,tidak layak
+rendah,sangat tua,sedang,rendah,sedang,pendek,layak
+rendah,sangat tua,sedang,rendah,sedang,sedang,tidak layak
+rendah,sangat tua,sedang,rendah,sedang,panjang,tidak layak
+rendah,sangat tua,sedang,rendah,banyak,pendek,layak
+rendah,sangat tua,sedang,rendah,banyak,sedang,layak
+rendah,sangat tua,sedang,rendah,banyak,panjang,tidak layak
+rendah,sangat tua,sedang,sedang,sedikit,pendek,tidak layak
+rendah,sangat tua,sedang,sedang,sedikit,sedang,tidak layak
+rendah,sangat tua,sedang,sedang,sedikit,panjang,tidak layak
+rendah,sangat tua,sedang,sedang,sedang,pendek,tidak layak
+rendah,sangat tua,sedang,sedang,sedang,sedang,tidak layak
+rendah,sangat tua,sedang,sedang,sedang,panjang,tidak layak
+rendah,sangat tua,sedang,sedang,banyak,pendek,layak
+rendah,sangat tua,sedang,sedang,banyak,sedang,tidak layak
+rendah,sangat tua,sedang,sedang,banyak,panjang,tidak layak
+rendah,sangat tua,sedang,tinggi,sedikit,pendek,tidak layak
+rendah,sangat tua,sedang,tinggi,sedikit,sedang,tidak layak
+rendah,sangat tua,sedang,tinggi,sedikit,panjang,tidak layak
+rendah,sangat tua,sedang,tinggi,sedang,pendek,tidak layak
+rendah,sangat tua,sedang,tinggi,sedang,sedang,tidak layak
+rendah,sangat tua,sedang,tinggi,sedang,panjang,tidak layak
+rendah,sangat tua,sedang,tinggi,banyak,pendek,tidak layak
+rendah,sangat tua,sedang,tinggi,banyak,sedang,tidak layak
+rendah,sangat tua,sedang,tinggi,banyak,panjang,tidak layak
+rendah,sangat tua,banyak,rendah,sedikit,pendek,tidak layak
+rendah,sangat tua,banyak,rendah,sedikit,sedang,tidak layak
+rendah,sangat tua,banyak,rendah,sedikit,panjang,tidak layak
+rendah,sangat tua,banyak,rendah,sedang,pendek,tidak layak
+rendah,sangat tua,banyak,rendah,sedang,sedang,tidak layak
+rendah,sangat tua,banyak,rendah,sedang,panjang,tidak layak
+rendah,sangat tua,banyak,rendah,banyak,pendek,layak
+rendah,sangat tua,banyak,rendah,banyak,sedang,tidak layak
+rendah,sangat tua,banyak,rendah,banyak,panjang,tidak layak
+rendah,sangat tua,banyak,sedang,sedikit,pendek,tidak layak
+rendah,sangat tua,banyak,sedang,sedikit,sedang,tidak layak
+rendah,sangat tua,banyak,sedang,sedikit,panjang,tidak layak
+rendah,sangat tua,banyak,sedang,sedang,pendek,tidak layak
+rendah,sangat tua,banyak,sedang,sedang,sedang,tidak layak
+rendah,sangat tua,banyak,sedang,sedang,panjang,tidak layak
+rendah,sangat tua,banyak,sedang,banyak,pendek,tidak layak
+rendah,sangat tua,banyak,sedang,banyak,sedang,tidak layak
+rendah,sangat tua,banyak,sedang,banyak,panjang,tidak layak
+rendah,sangat tua,banyak,tinggi,sedikit,pendek,tidak layak
+rendah,sangat tua,banyak,tinggi,sedikit,sedang,tidak layak
+rendah,sangat tua,banyak,tinggi,sedikit,panjang,tidak layak
+rendah,sangat tua,banyak,tinggi,sedang,pendek,tidak layak
+rendah,sangat tua,banyak,tinggi,sedang,sedang,tidak layak
+rendah,sangat tua,banyak,tinggi,sedang,panjang,tidak layak
+rendah,sangat tua,banyak,tinggi,banyak,pendek,tidak layak
+rendah,sangat tua,banyak,tinggi,banyak,sedang,tidak layak
+rendah,sangat tua,banyak,tinggi,banyak,panjang,tidak layak
+sedang,muda,sedikit,rendah,sedikit,pendek,layak
+sedang,muda,sedikit,rendah,sedikit,sedang,layak
+sedang,muda,sedikit,rendah,sedikit,panjang,tidak layak
+sedang,muda,sedikit,rendah,sedang,pendek,layak
+sedang,muda,sedikit,rendah,sedang,sedang,layak
+sedang,muda,sedikit,rendah,sedang,panjang,layak
+sedang,muda,sedikit,rendah,banyak,pendek,layak
+sedang,muda,sedikit,rendah,banyak,sedang,layak
+sedang,muda,sedikit,rendah,banyak,panjang,layak
+sedang,muda,sedikit,sedang,sedikit,pendek,layak
+sedang,muda,sedikit,sedang,sedikit,sedang,tidak layak
+sedang,muda,sedikit,sedang,sedikit,panjang,tidak layak
+sedang,muda,sedikit,sedang,sedang,pendek,layak
+sedang,muda,sedikit,sedang,sedang,sedang,layak
+sedang,muda,sedikit,sedang,sedang,panjang,tidak layak
+sedang,muda,sedikit,sedang,banyak,pendek,layak
+sedang,muda,sedikit,sedang,banyak,sedang,layak
+sedang,muda,sedikit,sedang,banyak,panjang,layak
+sedang,muda,sedikit,tinggi,sedikit,pendek,tidak layak
+sedang,muda,sedikit,tinggi,sedikit,sedang,tidak layak
+sedang,muda,sedikit,tinggi,sedikit,panjang,tidak layak
+sedang,muda,sedikit,tinggi,sedang,pendek,layak
+sedang,muda,sedikit,tinggi,sedang,sedang,tidak layak
+sedang,muda,sedikit,tinggi,sedang,panjang,tidak layak
+sedang,muda,sedikit,tinggi,banyak,pendek,layak
+sedang,muda,sedikit,tinggi,banyak,sedang,layak
+sedang,muda,sedikit,tinggi,banyak,panjang,tidak layak
+sedang,muda,sedang,rendah,sedikit,pendek,layak
+sedang,muda,sedang,rendah,sedikit,sedang,tidak layak
+sedang,muda,sedang,rendah,sedikit,panjang,tidak layak
+sedang,muda,sedang,rendah,sedang,pendek,layak
+sedang,muda,sedang,rendah,sedang,sedang,layak
+sedang,muda,sedang,rendah,sedang,panjang,tidak layak
+sedang,muda,sedang,rendah,banyak,pendek,layak
+sedang,muda,sedang,rendah,banyak,sedang,layak
+sedang,muda,sedang,rendah,banyak,panjang,layak
+sedang,muda,sedang,sedang,sedikit,pendek,tidak layak
+sedang,muda,sedang,sedang,sedikit,sedang,tidak layak
+sedang,muda,sedang,sedang,sedikit,panjang,tidak layak
+sedang,muda,sedang,sedang,sedang,pendek,layak
+sedang,muda,sedang,sedang,sedang,sedang,tidak layak
+sedang,muda,sedang,sedang,sedang,panjang,tidak layak
+sedang,muda,sedang,sedang,banyak,pendek,layak
+sedang,muda,sedang,sedang,banyak,sedang,layak
+sedang,muda,sedang,sedang,banyak,panjang,tidak layak
+sedang,muda,sedang,tinggi,sedikit,pendek,tidak layak
+sedang,muda,sedang,tinggi,sedikit,sedang,tidak layak
+sedang,muda,sedang,tinggi,sedikit,panjang,tidak layak
+sedang,muda,sedang,tinggi,sedang,pendek,tidak layak
+sedang,muda,sedang,tinggi,sedang,sedang,tidak layak
+sedang,muda,sedang,tinggi,sedang,panjang,tidak layak
+sedang,muda,sedang,tinggi,banyak,pendek,layak
+sedang,muda,sedang,tinggi,banyak,sedang,tidak layak
+sedang,muda,sedang,tinggi,banyak,panjang,tidak layak
+sedang,muda,banyak,rendah,sedikit,pendek,tidak layak
+sedang,muda,banyak,rendah,sedikit,sedang,tidak layak
+sedang,muda,banyak,rendah,sedikit,panjang,tidak layak
+sedang,muda,banyak,rendah,sedang,pendek,layak
+sedang,muda,banyak,rendah,sedang,sedang,tidak layak
+sedang,muda,banyak,rendah,sedang,panjang,tidak layak
+sedang,muda,banyak,rendah,banyak,pendek,layak
+sedang,muda,banyak,rendah,banyak,sedang,layak
+sedang,muda,banyak,rendah,banyak,panjang,tidak layak
+sedang,muda,banyak,sedang,sedikit,pendek,tidak layak
+sedang,muda,banyak,sedang,sedikit,sedang,tidak layak
+sedang,muda,banyak,sedang,sedikit,panjang,tidak layak
+sedang,muda,banyak,sedang,sedang,pendek,tidak layak
+sedang,muda,banyak,sedang,sedang,sedang,tidak layak
+sedang,muda,banyak,sedang,sedang,panjang,tidak layak
+sedang,muda,banyak,sedang,banyak,pendek,layak
+sedang,muda,banyak,sedang,banyak,sedang,tidak layak
+sedang,muda,banyak,sedang,banyak,panjang,tidak layak
+sedang,muda,banyak,tinggi,sedikit,pendek,tidak layak
+sedang,muda,banyak,tinggi,sedikit,sedang,tidak layak
+sedang,muda,banyak,tinggi,sedikit,panjang,tidak layak
+sedang,muda,banyak,tinggi,sedang,pendek,tidak layak
+sedang,muda,banyak,tinggi,sedang,sedang,tidak layak
+sedang,muda,banyak,tinggi,sedang,panjang,tidak layak
+sedang,muda,banyak,tinggi,banyak,pendek,tidak layak
+sedang,muda,banyak,tinggi,banyak,sedang,tidak layak
+sedang,muda,banyak,tinggi,banyak,panjang,tidak layak
+sedang,parobaya,sedikit,rendah,sedikit,pendek,layak
+sedang,parobaya,sedikit,rendah,sedikit,sedang,layak
+sedang,parobaya,sedikit,rendah,sedikit,panjang,layak
+sedang,parobaya,sedikit,rendah,sedang,pendek,layak
+sedang,parobaya,sedikit,rendah,sedang,sedang,layak
+sedang,parobaya,sedikit,rendah,sedang,panjang,layak
+sedang,parobaya,sedikit,rendah,banyak,pendek,layak
+sedang,parobaya,sedikit,rendah,banyak,sedang,layak
+sedang,parobaya,sedikit,rendah,banyak,panjang,layak
+sedang,parobaya,sedikit,sedang,sedikit,pendek,layak
+sedang,parobaya,sedikit,sedang,sedikit,sedang,layak
+sedang,parobaya,sedikit,sedang,sedikit,panjang,layak
+sedang,parobaya,sedikit,sedang,sedang,pendek,layak
+sedang,parobaya,sedikit,sedang,sedang,sedang,layak
+sedang,parobaya,sedikit,sedang,sedang,panjang,layak
+sedang,parobaya,sedikit,sedang,banyak,pendek,layak
+sedang,parobaya,sedikit,sedang,banyak,sedang,layak
+sedang,parobaya,sedikit,sedang,banyak,panjang,layak
+sedang,parobaya,sedikit,tinggi,sedikit,pendek,layak
+sedang,parobaya,sedikit,tinggi,sedikit,sedang,layak
+sedang,parobaya,sedikit,tinggi,sedikit,panjang,tidak layak
+sedang,parobaya,sedikit,tinggi,sedang,pendek,layak
+sedang,parobaya,sedikit,tinggi,sedang,sedang,layak
+sedang,parobaya,sedikit,tinggi,sedang,panjang,layak
+sedang,parobaya,sedikit,tinggi,banyak,pendek,layak
+sedang,parobaya,sedikit,tinggi,banyak,sedang,layak
+sedang,parobaya,sedikit,tinggi,banyak,panjang,layak
+sedang,parobaya,sedang,rendah,sedikit,pendek,layak
+sedang,parobaya,sedang,rendah,sedikit,sedang,layak
+sedang,parobaya,sedang,rendah,sedikit,panjang,layak
+sedang,parobaya,sedang,rendah,sedang,pendek,layak
+sedang,parobaya,sedang,rendah,sedang,sedang,layak
+sedang,parobaya,sedang,rendah,sedang,panjang,layak
+sedang,parobaya,sedang,rendah,banyak,pendek,layak
+sedang,parobaya,sedang,rendah,banyak,sedang,layak
+sedang,parobaya,sedang,rendah,banyak,panjang,layak
+sedang,parobaya,sedang,sedang,sedikit,pendek,layak
+sedang,parobaya,sedang,sedang,sedikit,sedang,layak
+sedang,parobaya,sedang,sedang,sedikit,panjang,tidak layak
+sedang,parobaya,sedang,sedang,sedang,pendek,layak
+sedang,parobaya,sedang,sedang,sedang,sedang,layak
+sedang,parobaya,sedang,sedang,sedang,panjang,layak
+sedang,parobaya,sedang,sedang,banyak,pendek,layak
+sedang,parobaya,sedang,sedang,banyak,sedang,layak
+sedang,parobaya,sedang,sedang,banyak,panjang,layak
+sedang,parobaya,sedang,tinggi,sedikit,pendek,layak
+sedang,parobaya,sedang,tinggi,sedikit,sedang,tidak layak
+sedang,parobaya,sedang,tinggi,sedikit,panjang,tidak layak
+sedang,parobaya,sedang,tinggi,sedang,pendek,layak
+sedang,parobaya,sedang,tinggi,sedang,sedang,layak
+sedang,parobaya,sedang,tinggi,sedang,panjang,tidak layak
+sedang,parobaya,sedang,tinggi,banyak,pendek,layak
+sedang,parobaya,sedang,tinggi,banyak,sedang,layak
+sedang,parobaya,sedang,tinggi,banyak,panjang,layak
+sedang,parobaya,banyak,rendah,sedikit,pendek,layak
+sedang,parobaya,banyak,rendah,sedikit,sedang,layak
+sedang,parobaya,banyak,rendah,sedikit,panjang,tidak layak
+sedang,parobaya,banyak,rendah,sedang,pendek,layak
+sedang,parobaya,banyak,rendah,sedang,sedang,layak
+sedang,parobaya,banyak,rendah,sedang,panjang,layak
+sedang,parobaya,banyak,rendah,banyak,pendek,layak
+sedang,parobaya,banyak,rendah,banyak,sedang,layak
+sedang,parobaya,banyak,rendah,banyak,panjang,layak
+sedang,parobaya,banyak,sedang,sedikit,pendek,layak
+sedang,parobaya,banyak,sedang,sedikit,sedang,tidak layak
+sedang,parobaya,banyak,sedang,sedikit,panjang,tidak layak
+sedang,parobaya,banyak,sedang,sedang,pendek,layak
+sedang,parobaya,banyak,sedang,sedang,sedang,layak
+sedang,parobaya,banyak,sedang,sedang,panjang,tidak layak
+sedang,parobaya,banyak,sedang,banyak,pendek,layak
+sedang,parobaya,banyak,sedang,banyak,sedang,layak
+sedang,parobaya,banyak,sedang,banyak,panjang,layak
+sedang,parobaya,banyak,tinggi,sedikit,pendek,tidak layak
+sedang,parobaya,banyak,tinggi,sedikit,sedang,tidak layak
+sedang,parobaya,banyak,tinggi,sedikit,panjang,tidak layak
+sedang,parobaya,banyak,tinggi,sedang,pendek,layak
+sedang,parobaya,banyak,tinggi,sedang,sedang,tidak layak
+sedang,parobaya,banyak,tinggi,sedang,panjang,tidak layak
+sedang,parobaya,banyak,tinggi,banyak,pendek,layak
+sedang,parobaya,banyak,tinggi,banyak,sedang,layak
+sedang,parobaya,banyak,tinggi,banyak,panjang,tidak layak
+sedang,tua,sedikit,rendah,sedikit,pendek,layak
+sedang,tua,sedikit,rendah,sedikit,sedang,layak
+sedang,tua,sedikit,rendah,sedikit,panjang,layak
+sedang,tua,sedikit,rendah,sedang,pendek,layak
+sedang,tua,sedikit,rendah,sedang,sedang,layak
+sedang,tua,sedikit,rendah,sedang,panjang,layak
+sedang,tua,sedikit,rendah,banyak,pendek,layak
+sedang,tua,sedikit,rendah,banyak,sedang,layak
+sedang,tua,sedikit,rendah,banyak,panjang,layak
+sedang,tua,sedikit,sedang,sedikit,pendek,layak
+sedang,tua,sedikit,sedang,sedikit,sedang,layak
+sedang,tua,sedikit,sedang,sedikit,panjang,layak
+sedang,tua,sedikit,sedang,sedang,pendek,layak
+sedang,tua,sedikit,sedang,sedang,sedang,layak
+sedang,tua,sedikit,sedang,sedang,panjang,layak
+sedang,tua,sedikit,sedang,banyak,pendek,layak
+sedang,tua,sedikit,sedang,banyak,sedang,layak
+sedang,tua,sedikit,sedang,banyak,panjang,layak
+sedang,tua,sedikit,tinggi,sedikit,pendek,layak
+sedang,tua,sedikit,tinggi,sedikit,sedang,layak
+sedang,tua,sedikit,tinggi,sedikit,panjang,tidak layak
+sedang,tua,sedikit,tinggi,sedang,pendek,layak
+sedang,tua,sedikit,tinggi,sedang,sedang,layak
+sedang,tua,sedikit,tinggi,sedang,panjang,layak
+sedang,tua,sedikit,tinggi,banyak,pendek,layak
+sedang,tua,sedikit,tinggi,banyak,sedang,layak
+sedang,tua,sedikit,tinggi,banyak,panjang,layak
+sedang,tua,sedang,rendah,sedikit,pendek,layak
+sedang,tua,sedang,rendah,sedikit,sedang,layak
+sedang,tua,sedang,rendah,sedikit,panjang,layak
+sedang,tua,sedang,rendah,sedang,pendek,layak
+sedang,tua,sedang,rendah,sedang,sedang,layak
+sedang,tua,sedang,rendah,sedang,panjang,layak
+sedang,tua,sedang,rendah,banyak,pendek,layak
+sedang,tua,sedang,rendah,banyak,sedang,layak
+sedang,tua,sedang,rendah,banyak,panjang,layak
+sedang,tua,sedang,sedang,sedikit,pendek,layak
+sedang,tua,sedang,sedang,sedikit,sedang,layak
+sedang,tua,sedang,sedang,sedikit,panjang,tidak layak
+sedang,tua,sedang,sedang,sedang,pendek,layak
+sedang,tua,sedang,sedang,sedang,sedang,layak
+sedang,tua,sedang,sedang,sedang,panjang,layak
+sedang,tua,sedang,sedang,banyak,pendek,layak
+sedang,tua,sedang,sedang,banyak,sedang,layak
+sedang,tua,sedang,sedang,banyak,panjang,layak
+sedang,tua,sedang,tinggi,sedikit,pendek,layak
+sedang,tua,sedang,tinggi,sedikit,sedang,tidak layak
+sedang,tua,sedang,tinggi,sedikit,panjang,tidak layak
+sedang,tua,sedang,tinggi,sedang,pendek,layak
+sedang,tua,sedang,tinggi,sedang,sedang,layak
+sedang,tua,sedang,tinggi,sedang,panjang,tidak layak
+sedang,tua,sedang,tinggi,banyak,pendek,layak
+sedang,tua,sedang,tinggi,banyak,sedang,layak
+sedang,tua,sedang,tinggi,banyak,panjang,layak
+sedang,tua,banyak,rendah,sedikit,pendek,layak
+sedang,tua,banyak,rendah,sedikit,sedang,layak
+sedang,tua,banyak,rendah,sedikit,panjang,tidak layak
+sedang,tua,banyak,rendah,sedang,pendek,layak
+sedang,tua,banyak,rendah,sedang,sedang,layak
+sedang,tua,banyak,rendah,sedang,panjang,layak
+sedang,tua,banyak,rendah,banyak,pendek,layak
+sedang,tua,banyak,rendah,banyak,sedang,layak
+sedang,tua,banyak,rendah,banyak,panjang,layak
+sedang,tua,banyak,sedang,sedikit,pendek,layak
+sedang,tua,banyak,sedang,sedikit,sedang,tidak layak
+sedang,tua,banyak,sedang,sedikit,panjang,tidak layak
+sedang,tua,banyak,sedang,sedang,pendek,layak
+sedang,tua,banyak,sedang,sedang,sedang,layak
+sedang,tua,banyak,sedang,sedang,panjang,tidak layak
+sedang,tua,banyak,sedang,banyak,pendek,layak
+sedang,tua,banyak,sedang,banyak,sedang,layak
+sedang,tua,banyak,sedang,banyak,panjang,layak
+sedang,tua,banyak,tinggi,sedikit,pendek,tidak layak
+sedang,tua,banyak,tinggi,sedikit,sedang,tidak layak
+sedang,tua,banyak,tinggi,sedikit,panjang,tidak layak
+sedang,tua,banyak,tinggi,sedang,pendek,layak
+sedang,tua,banyak,tinggi,sedang,sedang,tidak layak
+sedang,tua,banyak,tinggi,sedang,panjang,tidak layak
+sedang,tua,banyak,tinggi,banyak,pendek,layak
+sedang,tua,banyak,tinggi,banyak,sedang,layak
+sedang,tua,banyak,tinggi,banyak,panjang,tidak layak
+sedang,sangat tua,sedikit,rendah,sedikit,pendek,layak
+sedang,sangat tua,sedikit,rendah,sedikit,sedang,layak
+sedang,sangat tua,sedikit,rendah,sedikit,panjang,tidak layak
+sedang,sangat tua,sedikit,rendah,sedang,pendek,layak
+sedang,sangat tua,sedikit,rendah,sedang,sedang,layak
+sedang,sangat tua,sedikit,rendah,sedang,panjang,layak
+sedang,sangat tua,sedikit,rendah,banyak,pendek,layak
+sedang,sangat tua,sedikit,rendah,banyak,sedang,layak
+sedang,sangat tua,sedikit,rendah,banyak,panjang,layak
+sedang,sangat tua,sedikit,sedang,sedikit,pendek,layak
+sedang,sangat tua,sedikit,sedang,sedikit,sedang,tidak layak
+sedang,sangat tua,sedikit,sedang,sedikit,panjang,tidak layak
+sedang,sangat tua,sedikit,sedang,sedang,pendek,layak
+sedang,sangat tua,sedikit,sedang,sedang,sedang,layak
+sedang,sangat tua,sedikit,sedang,sedang,panjang,tidak layak
+sedang,sangat tua,sedikit,sedang,banyak,pendek,layak
+sedang,sangat tua,sedikit,sedang,banyak,sedang,layak
+sedang,sangat tua,sedikit,sedang,banyak,panjang,layak
+sedang,sangat tua,sedikit,tinggi,sedikit,pendek,tidak layak
+sedang,sangat tua,sedikit,tinggi,sedikit,sedang,tidak layak
+sedang,sangat tua,sedikit,tinggi,sedikit,panjang,tidak layak
+sedang,sangat tua,sedikit,tinggi,sedang,pendek,layak
+sedang,sangat tua,sedikit,tinggi,sedang,sedang,tidak layak
+sedang,sangat tua,sedikit,tinggi,sedang,panjang,tidak layak
+sedang,sangat tua,sedikit,tinggi,banyak,pendek,layak
+sedang,sangat tua,sedikit,tinggi,banyak,sedang,layak
+sedang,sangat tua,sedikit,tinggi,banyak,panjang,tidak layak
+sedang,sangat tua,sedang,rendah,sedikit,pendek,layak
+sedang,sangat tua,sedang,rendah,sedikit,sedang,tidak layak
+sedang,sangat tua,sedang,rendah,sedikit,panjang,tidak layak
+sedang,sangat tua,sedang,rendah,sedang,pendek,layak
+sedang,sangat tua,sedang,rendah,sedang,sedang,layak
+sedang,sangat tua,sedang,rendah,sedang,panjang,tidak layak
+sedang,sangat tua,sedang,rendah,banyak,pendek,layak
+sedang,sangat tua,sedang,rendah,banyak,sedang,layak
+sedang,sangat tua,sedang,rendah,banyak,panjang,layak
+sedang,sangat tua,sedang,sedang,sedikit,pendek,tidak layak
+sedang,sangat tua,sedang,sedang,sedikit,sedang,tidak layak
+sedang,sangat tua,sedang,sedang,sedikit,panjang,tidak layak
+sedang,sangat tua,sedang,sedang,sedang,pendek,layak
+sedang,sangat tua,sedang,sedang,sedang,sedang,tidak layak
+sedang,sangat tua,sedang,sedang,sedang,panjang,tidak layak
+sedang,sangat tua,sedang,sedang,banyak,pendek,layak
+sedang,sangat tua,sedang,sedang,banyak,sedang,layak
+sedang,sangat tua,sedang,sedang,banyak,panjang,tidak layak
+sedang,sangat tua,sedang,tinggi,sedikit,pendek,tidak layak
+sedang,sangat tua,sedang,tinggi,sedikit,sedang,tidak layak
+sedang,sangat tua,sedang,tinggi,sedikit,panjang,tidak layak
+sedang,sangat tua,sedang,tinggi,sedang,pendek,tidak layak
+sedang,sangat tua,sedang,tinggi,sedang,sedang,tidak layak
+sedang,sangat tua,sedang,tinggi,sedang,panjang,tidak layak
+sedang,sangat tua,sedang,tinggi,banyak,pendek,layak
+sedang,sangat tua,sedang,tinggi,banyak,sedang,tidak layak
+sedang,sangat tua,sedang,tinggi,banyak,panjang,tidak layak
+sedang,sangat tua,banyak,rendah,sedikit,pendek,tidak layak
+sedang,sangat tua,banyak,rendah,sedikit,sedang,tidak layak
+sedang,sangat tua,banyak,rendah,sedikit,panjang,tidak layak
+sedang,sangat tua,banyak,rendah,sedang,pendek,layak
+sedang,sangat tua,banyak,rendah,sedang,sedang,tidak layak
+sedang,sangat tua,banyak,rendah,sedang,panjang,tidak layak
+sedang,sangat tua,banyak,rendah,banyak,pendek,layak
+sedang,sangat tua,banyak,rendah,banyak,sedang,layak
+sedang,sangat tua,banyak,rendah,banyak,panjang,tidak layak
+sedang,sangat tua,banyak,sedang,sedikit,pendek,tidak layak
+sedang,sangat tua,banyak,sedang,sedikit,sedang,tidak layak
+sedang,sangat tua,banyak,sedang,sedikit,panjang,tidak layak
+sedang,sangat tua,banyak,sedang,sedang,pendek,tidak layak
+sedang,sangat tua,banyak,sedang,sedang,sedang,tidak layak
+sedang,sangat tua,banyak,sedang,sedang,panjang,tidak layak
+sedang,sangat tua,banyak,sedang,banyak,pendek,layak
+sedang,sangat tua,banyak,sedang,banyak,sedang,tidak layak
+sedang,sangat tua,banyak,sedang,banyak,panjang,tidak layak
+sedang,sangat tua,banyak,tinggi,sedikit,pendek,tidak layak
+sedang,sangat tua,banyak,tinggi,sedikit,sedang,tidak layak
+sedang,sangat tua,banyak,tinggi,sedikit,panjang,tidak layak
+sedang,sangat tua,banyak,tinggi,sedang,pendek,tidak layak
+sedang,sangat tua,banyak,tinggi,sedang,sedang,tidak layak
+sedang,sangat tua,banyak,tinggi,sedang,panjang,tidak layak
+sedang,sangat tua,banyak,tinggi,banyak,pendek,tidak layak
+sedang,sangat tua,banyak,tinggi,banyak,sedang,tidak layak
+sedang,sangat tua,banyak,tinggi,banyak,panjang,tidak layak
+tinggi,muda,sedikit,rendah,sedikit,pendek,layak
+tinggi,muda,sedikit,rendah,sedikit,sedang,layak
+tinggi,muda,sedikit,rendah,sedikit,panjang,layak
+tinggi,muda,sedikit,rendah,sedang,pendek,layak
+tinggi,muda,sedikit,rendah,sedang,sedang,layak
+tinggi,muda,sedikit,rendah,sedang,panjang,layak
+tinggi,muda,sedikit,rendah,banyak,pendek,layak
+tinggi,muda,sedikit,rendah,banyak,sedang,layak
+tinggi,muda,sedikit,rendah,banyak,panjang,layak
+tinggi,muda,sedikit,sedang,sedikit,pendek,layak
+tinggi,muda,sedikit,sedang,sedikit,sedang,layak
+tinggi,muda,sedikit,sedang,sedikit,panjang,tidak layak
+tinggi,muda,sedikit,sedang,sedang,pendek,layak
+tinggi,muda,sedikit,sedang,sedang,sedang,layak
+tinggi,muda,sedikit,sedang,sedang,panjang,layak
+tinggi,muda,sedikit,sedang,banyak,pendek,layak
+tinggi,muda,sedikit,sedang,banyak,sedang,layak
+tinggi,muda,sedikit,sedang,banyak,panjang,layak
+tinggi,muda,sedikit,tinggi,sedikit,pendek,layak
+tinggi,muda,sedikit,tinggi,sedikit,sedang,tidak layak
+tinggi,muda,sedikit,tinggi,sedikit,panjang,tidak layak
+tinggi,muda,sedikit,tinggi,sedang,pendek,layak
+tinggi,muda,sedikit,tinggi,sedang,sedang,layak
+tinggi,muda,sedikit,tinggi,sedang,panjang,tidak layak
+tinggi,muda,sedikit,tinggi,banyak,pendek,layak
+tinggi,muda,sedikit,tinggi,banyak,sedang,layak
+tinggi,muda,sedikit,tinggi,banyak,panjang,layak
+tinggi,muda,sedang,rendah,sedikit,pendek,layak
+tinggi,muda,sedang,rendah,sedikit,sedang,layak
+tinggi,muda,sedang,rendah,sedikit,panjang,tidak layak
+tinggi,muda,sedang,rendah,sedang,pendek,layak
+tinggi,muda,sedang,rendah,sedang,sedang,layak
+tinggi,muda,sedang,rendah,sedang,panjang,layak
+tinggi,muda,sedang,rendah,banyak,pendek,layak
+tinggi,muda,sedang,rendah,banyak,sedang,layak
+tinggi,muda,sedang,rendah,banyak,panjang,layak
+tinggi,muda,sedang,sedang,sedikit,pendek,layak
+tinggi,muda,sedang,sedang,sedikit,sedang,tidak layak
+tinggi,muda,sedang,sedang,sedikit,panjang,tidak layak
+tinggi,muda,sedang,sedang,sedang,pendek,layak
+tinggi,muda,sedang,sedang,sedang,sedang,layak
+tinggi,muda,sedang,sedang,sedang,panjang,tidak layak
+tinggi,muda,sedang,sedang,banyak,pendek,layak
+tinggi,muda,sedang,sedang,banyak,sedang,layak
+tinggi,muda,sedang,sedang,banyak,panjang,layak
+tinggi,muda,sedang,tinggi,sedikit,pendek,tidak layak
+tinggi,muda,sedang,tinggi,sedikit,sedang,tidak layak
+tinggi,muda,sedang,tinggi,sedikit,panjang,tidak layak
+tinggi,muda,sedang,tinggi,sedang,pendek,layak
+tinggi,muda,sedang,tinggi,sedang,sedang,tidak layak
+tinggi,muda,sedang,tinggi,sedang,panjang,tidak layak
+tinggi,muda,sedang,tinggi,banyak,pendek,layak
+tinggi,muda,sedang,tinggi,banyak,sedang,layak
+tinggi,muda,sedang,tinggi,banyak,panjang,tidak layak
+tinggi,muda,banyak,rendah,sedikit,pendek,layak
+tinggi,muda,banyak,rendah,sedikit,sedang,tidak layak
+tinggi,muda,banyak,rendah,sedikit,panjang,tidak layak
+tinggi,muda,banyak,rendah,sedang,pendek,layak
+tinggi,muda,banyak,rendah,sedang,sedang,layak
+tinggi,muda,banyak,rendah,sedang,panjang,tidak layak
+tinggi,muda,banyak,rendah,banyak,pendek,layak
+tinggi,muda,banyak,rendah,banyak,sedang,layak
+tinggi,muda,banyak,rendah,banyak,panjang,layak
+tinggi,muda,banyak,sedang,sedikit,pendek,tidak layak
+tinggi,muda,banyak,sedang,sedikit,sedang,tidak layak
+tinggi,muda,banyak,sedang,sedikit,panjang,tidak layak
+tinggi,muda,banyak,sedang,sedang,pendek,layak
+tinggi,muda,banyak,sedang,sedang,sedang,tidak layak
+tinggi,muda,banyak,sedang,sedang,panjang,tidak layak
+tinggi,muda,banyak,sedang,banyak,pendek,layak
+tinggi,muda,banyak,sedang,banyak,sedang,layak
+tinggi,muda,banyak,sedang,banyak,panjang,tidak layak
+tinggi,muda,banyak,tinggi,sedikit,pendek,tidak layak
+tinggi,muda,banyak,tinggi,sedikit,sedang,tidak layak
+tinggi,muda,banyak,tinggi,sedikit,panjang,tidak layak
+tinggi,muda,banyak,tinggi,sedang,pendek,tidak layak
+tinggi,muda,banyak,tinggi,sedang,sedang,tidak layak
+tinggi,muda,banyak,tinggi,sedang,panjang,tidak layak
+tinggi,muda,banyak,tinggi,banyak,pendek,layak
+tinggi,muda,banyak,tinggi,banyak,sedang,tidak layak
+tinggi,muda,banyak,tinggi,banyak,panjang,tidak layak
+tinggi,parobaya,sedikit,rendah,sedikit,pendek,layak
+tinggi,parobaya,sedikit,rendah,sedikit,sedang,layak
+tinggi,parobaya,sedikit,rendah,sedikit,panjang,layak
+tinggi,parobaya,sedikit,rendah,sedang,pendek,layak
+tinggi,parobaya,sedikit,rendah,sedang,sedang,layak
+tinggi,parobaya,sedikit,rendah,sedang,panjang,layak
+tinggi,parobaya,sedikit,rendah,banyak,pendek,layak
+tinggi,parobaya,sedikit,rendah,banyak,sedang,layak
+tinggi,parobaya,sedikit,rendah,banyak,panjang,layak
+tinggi,parobaya,sedikit,sedang,sedikit,pendek,layak
+tinggi,parobaya,sedikit,sedang,sedikit,sedang,layak
+tinggi,parobaya,sedikit,sedang,sedikit,panjang,layak
+tinggi,parobaya,sedikit,sedang,sedang,pendek,layak
+tinggi,parobaya,sedikit,sedang,sedang,sedang,layak
+tinggi,parobaya,sedikit,sedang,sedang,panjang,layak
+tinggi,parobaya,sedikit,sedang,banyak,pendek,layak
+tinggi,parobaya,sedikit,sedang,banyak,sedang,layak
+tinggi,parobaya,sedikit,sedang,banyak,panjang,layak
+tinggi,parobaya,sedikit,tinggi,sedikit,pendek,layak
+tinggi,parobaya,sedikit,tinggi,sedikit,sedang,layak
+tinggi,parobaya,sedikit,tinggi,sedikit,panjang,layak
+tinggi,parobaya,sedikit,tinggi,sedang,pendek,layak
+tinggi,parobaya,sedikit,tinggi,sedang,sedang,layak
+tinggi,parobaya,sedikit,tinggi,sedang,panjang,layak
+tinggi,parobaya,sedikit,tinggi,banyak,pendek,layak
+tinggi,parobaya,sedikit,tinggi,banyak,sedang,layak
+tinggi,parobaya,sedikit,tinggi,banyak,panjang,layak
+tinggi,parobaya,sedang,rendah,sedikit,pendek,layak
+tinggi,parobaya,sedang,rendah,sedikit,sedang,layak
+tinggi,parobaya,sedang,rendah,sedikit,panjang,layak
+tinggi,parobaya,sedang,rendah,sedang,pendek,layak
+tinggi,parobaya,sedang,rendah,sedang,sedang,layak
+tinggi,parobaya,sedang,rendah,sedang,panjang,layak
+tinggi,parobaya,sedang,rendah,banyak,pendek,layak
+tinggi,parobaya,sedang,rendah,banyak,sedang,layak
+tinggi,parobaya,sedang,rendah,banyak,panjang,layak
+tinggi,parobaya,sedang,sedang,sedikit,pendek,layak
+tinggi,parobaya,sedang,sedang,sedikit,sedang,layak
+tinggi,parobaya,sedang,sedang,sedikit,panjang,layak
+tinggi,parobaya,sedang,sedang,sedang,pendek,layak
+tinggi,parobaya,sedang,sedang,sedang,sedang,layak
+tinggi,parobaya,sedang,sedang,sedang,panjang,layak
+tinggi,parobaya,sedang,sedang,banyak,pendek,layak
+tinggi,parobaya,sedang,sedang,banyak,sedang,layak
+tinggi,parobaya,sedang,sedang,banyak,panjang,layak
+tinggi,parobaya,sedang,tinggi,sedikit,pendek,layak
+tinggi,parobaya,sedang,tinggi,sedikit,sedang,layak
+tinggi,parobaya,sedang,tinggi,sedikit,panjang,tidak layak
+tinggi,parobaya,sedang,tinggi,sedang,pendek,layak
+tinggi,parobaya,sedang,tinggi,sedang,sedang,layak
+tinggi,parobaya,sedang,tinggi,sedang,panjang,layak
+tinggi,parobaya,sedang,tinggi,banyak,pendek,layak
+tinggi,parobaya,sedang,tinggi,banyak,sedang,layak
+tinggi,parobaya,sedang,tinggi,banyak,panjang,layak
+tinggi,parobaya,banyak,rendah,sedikit,pendek,layak
+tinggi,parobaya,banyak,rendah,sedikit,sedang,layak
+tinggi,parobaya,banyak,rendah,sedikit,panjang,layak
+tinggi,parobaya,banyak,rendah,sedang,pendek,layak
+tinggi,parobaya,banyak,rendah,sedang,sedang,layak
+tinggi,parobaya,banyak,rendah,sedang,panjang,layak
+tinggi,parobaya,banyak,rendah,banyak,pendek,layak
+tinggi,parobaya,banyak,rendah,banyak,sedang,layak
+tinggi,parobaya,banyak,rendah,banyak,panjang,layak
+tinggi,parobaya,banyak,sedang,sedikit,pendek,layak
+tinggi,parobaya,banyak,sedang,sedikit,sedang,layak
+tinggi,parobaya,banyak,sedang,sedikit,panjang,tidak layak
+tinggi,parobaya,banyak,sedang,sedang,pendek,layak
+tinggi,parobaya,banyak,sedang,sedang,sedang,layak
+tinggi,parobaya,banyak,sedang,sedang,panjang,layak
+tinggi,parobaya,banyak,sedang,banyak,pendek,layak
+tinggi,parobaya,banyak,sedang,banyak,sedang,layak
+tinggi,parobaya,banyak,sedang,banyak,panjang,layak
+tinggi,parobaya,banyak,tinggi,sedikit,pendek,layak
+tinggi,parobaya,banyak,tinggi,sedikit,sedang,tidak layak
+tinggi,parobaya,banyak,tinggi,sedikit,panjang,tidak layak
+tinggi,parobaya,banyak,tinggi,sedang,pendek,layak
+tinggi,parobaya,banyak,tinggi,sedang,sedang,layak
+tinggi,parobaya,banyak,tinggi,sedang,panjang,tidak layak
+tinggi,parobaya,banyak,tinggi,banyak,pendek,layak
+tinggi,parobaya,banyak,tinggi,banyak,sedang,layak
+tinggi,parobaya,banyak,tinggi,banyak,panjang,layak
+tinggi,tua,sedikit,rendah,sedikit,pendek,layak
+tinggi,tua,sedikit,rendah,sedikit,sedang,layak
+tinggi,tua,sedikit,rendah,sedikit,panjang,layak
+tinggi,tua,sedikit,rendah,sedang,pendek,layak
+tinggi,tua,sedikit,rendah,sedang,sedang,layak
+tinggi,tua,sedikit,rendah,sedang,panjang,layak
+tinggi,tua,sedikit,rendah,banyak,pendek,layak
+tinggi,tua,sedikit,rendah,banyak,sedang,layak
+tinggi,tua,sedikit,rendah,banyak,panjang,layak
+tinggi,tua,sedikit,sedang,sedikit,pendek,layak
+tinggi,tua,sedikit,sedang,sedikit,sedang,layak
+tinggi,tua,sedikit,sedang,sedikit,panjang,layak
+tinggi,tua,sedikit,sedang,sedang,pendek,layak
+tinggi,tua,sedikit,sedang,sedang,sedang,layak
+tinggi,tua,sedikit,sedang,sedang,panjang,layak
+tinggi,tua,sedikit,sedang,banyak,pendek,layak
+tinggi,tua,sedikit,sedang,banyak,sedang,layak
+tinggi,tua,sedikit,sedang,banyak,panjang,layak
+tinggi,tua,sedikit,tinggi,sedikit,pendek,layak
+tinggi,tua,sedikit,tinggi,sedikit,sedang,layak
+tinggi,tua,sedikit,tinggi,sedikit,panjang,layak
+tinggi,tua,sedikit,tinggi,sedang,pendek,layak
+tinggi,tua,sedikit,tinggi,sedang,sedang,layak
+tinggi,tua,sedikit,tinggi,sedang,panjang,layak
+tinggi,tua,sedikit,tinggi,banyak,pendek,layak
+tinggi,tua,sedikit,tinggi,banyak,sedang,layak
+tinggi,tua,sedikit,tinggi,banyak,panjang,layak
+tinggi,tua,sedang,rendah,sedikit,pendek,layak
+tinggi,tua,sedang,rendah,sedikit,sedang,layak
+tinggi,tua,sedang,rendah,sedikit,panjang,layak
+tinggi,tua,sedang,rendah,sedang,pendek,layak
+tinggi,tua,sedang,rendah,sedang,sedang,layak
+tinggi,tua,sedang,rendah,sedang,panjang,layak
+tinggi,tua,sedang,rendah,banyak,pendek,layak
+tinggi,tua,sedang,rendah,banyak,sedang,layak
+tinggi,tua,sedang,rendah,banyak,panjang,layak
+tinggi,tua,sedang,sedang,sedikit,pendek,layak
+tinggi,tua,sedang,sedang,sedikit,sedang,layak
+tinggi,tua,sedang,sedang,sedikit,panjang,layak
+tinggi,tua,sedang,sedang,sedang,pendek,layak
+tinggi,tua,sedang,sedang,sedang,sedang,layak
+tinggi,tua,sedang,sedang,sedang,panjang,layak
+tinggi,tua,sedang,sedang,banyak,pendek,layak
+tinggi,tua,sedang,sedang,banyak,sedang,layak
+tinggi,tua,sedang,sedang,banyak,panjang,layak
+tinggi,tua,sedang,tinggi,sedikit,pendek,layak
+tinggi,tua,sedang,tinggi,sedikit,sedang,layak
+tinggi,tua,sedang,tinggi,sedikit,panjang,tidak layak
+tinggi,tua,sedang,tinggi,sedang,pendek,layak
+tinggi,tua,sedang,tinggi,sedang,sedang,layak
+tinggi,tua,sedang,tinggi,sedang,panjang,layak
+tinggi,tua,sedang,tinggi,banyak,pendek,layak
+tinggi,tua,sedang,tinggi,banyak,sedang,layak
+tinggi,tua,sedang,tinggi,banyak,panjang,layak
+tinggi,tua,banyak,rendah,sedikit,pendek,layak
+tinggi,tua,banyak,rendah,sedikit,sedang,layak
+tinggi,tua,banyak,rendah,sedikit,panjang,layak
+tinggi,tua,banyak,rendah,sedang,pendek,layak
+tinggi,tua,banyak,rendah,sedang,sedang,layak
+tinggi,tua,banyak,rendah,sedang,panjang,layak
+tinggi,tua,banyak,rendah,banyak,pendek,layak
+tinggi,tua,banyak,rendah,banyak,sedang,layak
+tinggi,tua,banyak,rendah,banyak,panjang,layak
+tinggi,tua,banyak,sedang,sedikit,pendek,layak
+tinggi,tua,banyak,sedang,sedikit,sedang,layak
+tinggi,tua,banyak,sedang,sedikit,panjang,tidak layak
+tinggi,tua,banyak,sedang,sedang,pendek,layak
+tinggi,tua,banyak,sedang,sedang,sedang,layak
+tinggi,tua,banyak,sedang,sedang,panjang,layak
+tinggi,tua,banyak,sedang,banyak,pendek,layak
+tinggi,tua,banyak,sedang,banyak,sedang,layak
+tinggi,tua,banyak,sedang,banyak,panjang,layak
+tinggi,tua,banyak,tinggi,sedikit,pendek,layak
+tinggi,tua,banyak,tinggi,sedikit,sedang,tidak layak
+tinggi,tua,banyak,tinggi,sedikit,panjang,tidak layak
+tinggi,tua,banyak,tinggi,sedang,pendek,layak
+tinggi,tua,banyak,tinggi,sedang,sedang,layak
+tinggi,tua,banyak,tinggi,sedang,panjang,tidak layak
+tinggi,tua,banyak,tinggi,banyak,pendek,layak
+tinggi,tua,banyak,tinggi,banyak,sedang,layak
+tinggi,tua,banyak,tinggi,banyak,panjang,layak
+tinggi,sangat tua,sedikit,rendah,sedikit,pendek,layak
+tinggi,sangat tua,sedikit,rendah,sedikit,sedang,layak
+tinggi,sangat tua,sedikit,rendah,sedikit,panjang,layak
+tinggi,sangat tua,sedikit,rendah,sedang,pendek,layak
+tinggi,sangat tua,sedikit,rendah,sedang,sedang,layak
+tinggi,sangat tua,sedikit,rendah,sedang,panjang,layak
+tinggi,sangat tua,sedikit,rendah,banyak,pendek,layak
+tinggi,sangat tua,sedikit,rendah,banyak,sedang,layak
+tinggi,sangat tua,sedikit,rendah,banyak,panjang,layak
+tinggi,sangat tua,sedikit,sedang,sedikit,pendek,layak
+tinggi,sangat tua,sedikit,sedang,sedikit,sedang,layak
+tinggi,sangat tua,sedikit,sedang,sedikit,panjang,tidak layak
+tinggi,sangat tua,sedikit,sedang,sedang,pendek,layak
+tinggi,sangat tua,sedikit,sedang,sedang,sedang,layak
+tinggi,sangat tua,sedikit,sedang,sedang,panjang,layak
+tinggi,sangat tua,sedikit,sedang,banyak,pendek,layak
+tinggi,sangat tua,sedikit,sedang,banyak,sedang,layak
+tinggi,sangat tua,sedikit,sedang,banyak,panjang,layak
+tinggi,sangat tua,sedikit,tinggi,sedikit,pendek,layak
+tinggi,sangat tua,sedikit,tinggi,sedikit,sedang,tidak layak
+tinggi,sangat tua,sedikit,tinggi,sedikit,panjang,tidak layak
+tinggi,sangat tua,sedikit,tinggi,sedang,pendek,layak
+tinggi,sangat tua,sedikit,tinggi,sedang,sedang,layak
+tinggi,sangat tua,sedikit,tinggi,sedang,panjang,tidak layak
+tinggi,sangat tua,sedikit,tinggi,banyak,pendek,layak
+tinggi,sangat tua,sedikit,tinggi,banyak,sedang,layak
+tinggi,sangat tua,sedikit,tinggi,banyak,panjang,layak
+tinggi,sangat tua,sedang,rendah,sedikit,pendek,layak
+tinggi,sangat tua,sedang,rendah,sedikit,sedang,layak
+tinggi,sangat tua,sedang,rendah,sedikit,panjang,tidak layak
+tinggi,sangat tua,sedang,rendah,sedang,pendek,layak
+tinggi,sangat tua,sedang,rendah,sedang,sedang,layak
+tinggi,sangat tua,sedang,rendah,sedang,panjang,layak
+tinggi,sangat tua,sedang,rendah,banyak,pendek,layak
+tinggi,sangat tua,sedang,rendah,banyak,sedang,layak
+tinggi,sangat tua,sedang,rendah,banyak,panjang,layak
+tinggi,sangat tua,sedang,sedang,sedikit,pendek,layak
+tinggi,sangat tua,sedang,sedang,sedikit,sedang,tidak layak
+tinggi,sangat tua,sedang,sedang,sedikit,panjang,tidak layak
+tinggi,sangat tua,sedang,sedang,sedang,pendek,layak
+tinggi,sangat tua,sedang,sedang,sedang,sedang,layak
+tinggi,sangat tua,sedang,sedang,sedang,panjang,tidak layak
+tinggi,sangat tua,sedang,sedang,banyak,pendek,layak
+tinggi,sangat tua,sedang,sedang,banyak,sedang,layak
+tinggi,sangat tua,sedang,sedang,banyak,panjang,layak
+tinggi,sangat tua,sedang,tinggi,sedikit,pendek,tidak layak
+tinggi,sangat tua,sedang,tinggi,sedikit,sedang,tidak layak
+tinggi,sangat tua,sedang,tinggi,sedikit,panjang,tidak layak
+tinggi,sangat tua,sedang,tinggi,sedang,pendek,layak
+tinggi,sangat tua,sedang,tinggi,sedang,sedang,tidak layak
+tinggi,sangat tua,sedang,tinggi,sedang,panjang,tidak layak
+tinggi,sangat tua,sedang,tinggi,banyak,pendek,layak
+tinggi,sangat tua,sedang,tinggi,banyak,sedang,layak
+tinggi,sangat tua,sedang,tinggi,banyak,panjang,tidak layak
+tinggi,sangat tua,banyak,rendah,sedikit,pendek,layak
+tinggi,sangat tua,banyak,rendah,sedikit,sedang,tidak layak
+tinggi,sangat tua,banyak,rendah,sedikit,panjang,tidak layak
+tinggi,sangat tua,banyak,rendah,sedang,pendek,layak
+tinggi,sangat tua,banyak,rendah,sedang,sedang,layak
+tinggi,sangat tua,banyak,rendah,sedang,panjang,tidak layak
+tinggi,sangat tua,banyak,rendah,banyak,pendek,layak
+tinggi,sangat tua,banyak,rendah,banyak,sedang,layak
+tinggi,sangat tua,banyak,rendah,banyak,panjang,layak
+tinggi,sangat tua,banyak,sedang,sedikit,pendek,tidak layak
+tinggi,sangat tua,banyak,sedang,sedikit,sedang,tidak layak
+tinggi,sangat tua,banyak,sedang,sedikit,panjang,tidak layak
+tinggi,sangat tua,banyak,sedang,sedang,pendek,layak
+tinggi,sangat tua,banyak,sedang,sedang,sedang,tidak layak
+tinggi,sangat tua,banyak,sedang,sedang,panjang,tidak layak
+tinggi,sangat tua,banyak,sedang,banyak,pendek,layak
+tinggi,sangat tua,banyak,sedang,banyak,sedang,layak
+tinggi,sangat tua,banyak,sedang,banyak,panjang,tidak layak
+tinggi,sangat tua,banyak,tinggi,sedikit,pendek,tidak layak
+tinggi,sangat tua,banyak,tinggi,sedikit,sedang,tidak layak
+tinggi,sangat tua,banyak,tinggi,sedikit,panjang,tidak layak
+tinggi,sangat tua,banyak,tinggi,sedang,pendek,tidak layak
+tinggi,sangat tua,banyak,tinggi,sedang,sedang,tidak layak
+tinggi,sangat tua,banyak,tinggi,sedang,panjang,tidak layak
+tinggi,sangat tua,banyak,tinggi,banyak,pendek,layak
+tinggi,sangat tua,banyak,tinggi,banyak,sedang,tidak layak
+tinggi,sangat tua,banyak,tinggi,banyak,panjang,tidak layak
